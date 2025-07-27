@@ -259,7 +259,7 @@
         "name": "Maxim Tomato",
         "type": "toggle",
         "img": "/images/Maxim.png",
-        "codes": "Maxim Tomato"
+        "codes": "Maxim Tomato, Maxim_Tomato"
     },
     {
         "name": "1-Up",
@@ -271,7 +271,7 @@
         "name": "Invincibility Candy",
         "type": "toggle",
         "img": "/images/InvincibleCandy.png",
-        "codes": "Invincibility Candy"
+        "codes": "Invincibility Candy, Invincibility_Candy"
     },
     {
         "name": "Essences",
@@ -283,12 +283,12 @@
         "name": "DB Extra 1",
         "type": "toggle",
         "img": "/images/dynastagechecked.png",
-        "codes": "Dyna Blade - Extra 1"
+        "codes": "Dyna Blade - Extra 1, DB Ex 1"
     },
     {
         "name": "DB Extra 2",
         "type": "toggle",
         "img": "/images/dynastagechecked.png",
-        "codes": "Dyna Blade - Extra 2"
+        "codes": "Dyna Blade - Extra 2, DB Ex 2"
     }
 ]

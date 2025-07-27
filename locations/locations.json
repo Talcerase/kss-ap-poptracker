@@ -10,7 +10,7 @@
                     "Gourmet Race"
                 ],
                 "sections": [
-                    {
+                {
                         "name": "Win Round 1",
                         "chest_unopened_img": "/images/Stars/disabledstar.png",
                         "chest_opened_img": "/images/Stars/redstar.png"
@@ -148,7 +148,7 @@
                         "name": "Bubbly Clouds 1-Up"
                     },
                     {
-                        "ref": "Spring Breeze - Bubbly Clouds/BC Moon 1-Up/Secret 1-Up",
+                        "ref": "Spring Breeze - Bubbly Clouds/BC Moon 1-Up/1-Up (Secret)",
                         "name": "Bubbly Clouds 1-Up (Secret)"
                     },
                     {

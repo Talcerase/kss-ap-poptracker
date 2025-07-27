@@ -1,0 +1,294 @@
+[
+	{
+		"name": "Cutter",
+		"type": "toggle",
+		"img": "/images/Abilities/KSS_Cutter_Icon.png",
+		"codes": "Cutter,Copy_Abilities,cutter"
+	},
+	{
+		"name": "Beam",
+		"type": "toggle",
+		"img": "/images/Abilities/KSS_Beam_Icon.png",
+		"codes": "Beam,Copy_Abilities,beam"
+	},
+	{
+		"name": "Yo-Yo",
+		"type": "toggle",
+		"img": "/images/Abilities/KSS_Yo-Yo_Icon.png",
+		"codes": "Yo-Yo,Copy_Abilities,yo-yo"
+	},
+	{
+		"name": "Ninja",
+		"type": "toggle",
+		"img": "/images/Abilities/KSS_Ninja_Icon.png",
+		"codes": "Ninja,Copy_Abilities,ninja"
+	},
+	{
+		"name": "Wing",
+		"type": "toggle",
+		"img": "/images/Abilities/KSS_Wing_Icon.png",
+		"codes": "Wing,Copy_Abilities,wing"
+	},
+	{
+		"name": "Fighter",
+		"type": "toggle",
+		"img": "/images/Abilities/KSS_Fighter_Icon.png",
+		"codes": "Fighter,Copy_Abilities,fighter"
+	},
+	{
+		"name": "Jet",
+		"type": "toggle",
+		"img": "/images/Abilities/KSS_Jet_Icon.png",
+		"codes": "Jet,Copy_Abilities,jet"
+	},
+	{
+		"name": "Sword",
+		"type": "toggle",
+		"img": "/images/Abilities/KSS_Sword_Icon.png",
+		"codes": "Sword,Copy_Abilities,sword"
+	},
+	{
+		"name": "Fire",
+		"type": "toggle",
+		"img": "/images/Abilities/KSS_Fire_Icon.png",
+		"codes": "Fire,Copy_Abilities,fire"
+	},
+	{
+		"name": "Stone",
+		"type": "toggle",
+		"img": "/images/Abilities/KSS_Stone_Icon.png",
+		"codes": "Stone,Copy_Abilities,stone"
+	},
+	{
+		"name": "Bomb",
+		"type": "toggle",
+		"img": "/images/Abilities/KSS_Bomb_Icon.png",
+		"codes": "Bomb,Copy_Abilities,bomb"
+	},
+	{
+		"name": "Plasma",
+		"type": "toggle",
+		"img": "/images/Abilities/KSS_Plasma_Icon.png",
+		"codes": "Plasma,Copy_Abilities,plasma"
+	},
+	{
+		"name": "Wheel",
+		"type": "toggle",
+		"img": "/images/Abilities/KSS_Wheel_Icon.png",
+		"codes": "Wheel,Copy_Abilities,wheel"
+	},
+	{
+		"name": "Ice",
+		"type": "toggle",
+		"img": "/images/Abilities/KSS_Ice_Icon.png",
+		"codes": "Ice,Copy_Abilities,ice"
+	},
+	{
+		"name": "Mirror",
+		"type": "toggle",
+		"img": "/images/Abilities/KSS_Mirror_Icon.png",
+		"codes": "Mirror,Copy_Abilities,mirror"
+	},
+	{
+		"name": "Copy",
+		"type": "toggle",
+		"img": "/images/Abilities/KSS_Copy_Icon.png",
+		"codes": "Copy,Copy_Abilities,copy"
+	},
+	{
+		"name": "Suplex",
+		"type": "toggle",
+		"img": "/images/Abilities/KSS_Suplex_Icon.png",
+		"codes": "Suplex,Copy_Abilities,suplex"
+	},
+	{
+		"name": "Hammer",
+		"type": "toggle",
+		"img": "/images/Abilities/KSS_Hammer_Icon.png",
+		"codes": "Hammer,Copy_Abilities,hammer"
+	},
+	{
+		"name": "Parasol",
+		"type": "toggle",
+		"img": "/images/Abilities/KSS_Parasol_Icon.png",
+		"codes": "Parasol,Copy_Abilities,parasol"
+	},
+	{
+		"name": "Mike",
+		"type": "toggle",
+		"img": "/images/Abilities/KSS_Mike_Icon_1.png",
+		"codes": "Mike,mike"
+	},
+	{
+		"name": "Sleep",
+		"type": "toggle",
+		"img": "/images/Abilities/KSS_Sleep_Icon.png",
+		"codes": "Sleep,sleep"
+	},
+	{
+		"name": "Paint",
+		"type": "toggle",
+		"img": "/images/Abilities/KSS_Paint_Icon.png",
+		"codes": "Paint,paint"
+	},
+	{
+		"name": "Cook",
+		"type": "toggle",
+		"img": "/images/Abilities/KSS_Cook_Icon.png",
+		"codes": "Cook,cook"
+	},
+	{
+		"name": "Crash",
+		"type": "toggle",
+		"img": "/images/Abilities/KSS_Crash_Icon.png",
+		"codes": "Crash,crash"
+	},
+	{
+		"name": "Rainbow Stars",
+		"type": "consumable",
+		"img": "/images/KSS_Star_Stone_Treasure_Sprite.png",
+		"max_quantity": 7,
+		"increment": 1,
+		"decrement": 1,
+		"initial_quantity": 0,
+		"overlay_font_size": "16",
+		"codes": "Rainbow Stars,rainbowstar"
+	},
+	{
+		"name": "Spring Breeze",
+		"type": "toggle",
+		"img": "/images/Games/SpringBreeze.png",
+		"codes": "Spring Breeze,springbreeze"
+	},
+	{
+		"name": "Dyna Blade",
+		"type": "toggle",
+		"img": "/images/Games/DynaBlade.png",
+		"codes": "Dyna Blade,dynablade"
+	},
+	{
+		"name": "Gourmet Race",
+		"type": "toggle",
+		"img": "/images/Games/GourmetRace.png",
+		"codes": "Gourmet Race,gourmetrace"
+	},
+	{
+		"name": "Revenge of Meta Knight",
+		"type": "toggle",
+		"img": "/images/Games/RoMK.png",
+		"codes": "Revenge of Meta Knight,revengeofmetaknight"
+	},
+	{
+		"name": "Milky Way Wishes",
+		"type": "toggle",
+		"img": "/images/Games/MWW.png",
+		"codes": "Milky Way Wishes,milkywaywishes"
+	},
+	{
+		"name": "The Great Cave Offensive",
+		"type": "toggle",
+		"img": "/images/Games/TGCO.png",
+		"codes": "The Great Cave Offensive,thegreatcaveoffensive"
+	},
+	{
+		"name": "Arena",
+		"type": "toggle",
+		"img": "/images/Games/Arena.png",
+		"codes": "The Arena,thearena"
+	},
+	{
+		"name": "Gold",
+		"type": "consumable",
+		"img": "/images/KSS_Gold_Medal_Treasure_Sprite.png",
+		"max_quantity": 9999990,
+		"increment": 10,
+		"decrement": 10,
+		"initial_quantity": 0,
+		"overlay_font_size": 12,
+		"codes": "Gold,goldmedal,goldcoin,whip,crystalball,luckycat,seiryusword,screwattack,echigocandy,zebramask,starstone"
+	},
+	{
+		"name": "Floria",
+		"type": "toggle",
+		"img": "/images/Stars/greenstar.png",
+		"codes": "Floria,floria"
+	},
+	{
+		"name": "Aqualiss",
+		"type": "toggle",
+		"img": "/images/Stars/bluestar.png",
+		"codes": "Aqualiss,aqualiss"
+	},
+	{
+		"name": "Skyhigh",
+		"type": "toggle",
+		"img": "/images/Stars/yellowstar.png",
+		"codes": "Skyhigh,skyhigh"
+	},
+	{
+		"name": "Hotbeat",
+		"type": "toggle",
+		"img": "/images/Stars/orangestar.png",
+		"codes": "Hotbeat,hotbeat"
+	},
+	{
+		"name": "Cavios",
+		"type": "toggle",
+		"img": "/images/Stars/violetstar.png",
+		"codes": "Cavios,cavios"
+	},
+	{
+		"name": "Mecheye",
+		"type": "toggle",
+		"img": "/images/Stars/redstar.png",
+		"codes": "Mecheye,mecheye"
+	},
+	{
+		"name": "Halfmoon",
+		"type": "toggle",
+		"img": "/images/Stars/indigostar.png",
+		"codes": "Halfmoon,halfmoon"
+	},
+    {
+		"name": "???",
+		"type": "toggle",
+		"img": "/images/Stars/enabledstar.png",
+		"codes": "???"
+	},
+    {
+        "name": "Maxim Tomato",
+        "type": "toggle",
+        "img": "/images/Maxim.png",
+        "codes": "Maxim Tomato"
+    },
+    {
+        "name": "1-Up",
+        "type": "toggle",
+        "img": "/images/1-Up.png",
+        "codes": "1-Up"
+    },
+    {
+        "name": "Invincibility Candy",
+        "type": "toggle",
+        "img": "/images/InvincibleCandy.png",
+        "codes": "Invincibility Candy"
+    },
+    {
+        "name": "Essences",
+        "type": "toggle",
+        "img": "/images/Trophy.png",
+        "codes": "Essences"
+    },
+    {
+        "name": "DB Extra 1",
+        "type": "toggle",
+        "img": "/images/dynastagechecked.png",
+        "codes": "Dyna Blade - Extra 1"
+    },
+    {
+        "name": "DB Extra 2",
+        "type": "toggle",
+        "img": "/images/dynastagechecked.png",
+        "codes": "Dyna Blade - Extra 2"
+    }
+]

@@ -1,0 +1,56 @@
+{
+	"abilities_grid": {
+		"type": "array",
+		"orientation": "vertical",
+		"margin": "0,0",
+		"content": [
+			{
+				"type": "array",
+				"orientation": "horizontal",
+				"margin": "0,0",
+				"content": [
+					{
+						"type": "itemgrid",
+						"item_margin": "0,0",
+						"h_alignment": "left",
+						"item_h_alignment": "center",
+						"rows": [
+							[
+								"Ice",
+								"Plasma",
+								"Yo-Yo",
+								"Bomb",
+								"Sword",
+								"Fire"
+							],
+							[
+								"Wing",
+								"Cutter",
+								"Mirror",
+								"Beam",
+								"Fighter",
+								"Parasol"
+							],
+							[
+								"Stone",
+								"Wheel",
+								"Jet",
+								"Suplex",
+								"Hammer",
+								"Ninja"
+							],
+							[
+								"Crash",
+								"Cook",
+								"Mike",
+								"Sleep",
+								"Paint",
+								"Copy"
+							]
+						]
+					}
+				]
+			}
+		]
+	}
+}

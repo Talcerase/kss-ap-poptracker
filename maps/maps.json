@@ -1,0 +1,494 @@
+[
+	{
+		"name": "Game Select",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/GameSelect.png"
+	},
+	{
+		"name": "Green Greens",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/Spring_Breeze/Green_Greens.png"
+	},
+	{
+		"name": "Float Islands",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/Spring_Breeze/Float_Islands.png"
+	},
+	{
+		"name": "Bubbly Clouds",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/Spring_Breeze/Bubbly_Clouds.png"
+	},
+	{
+		"name": "Mt. Dedede",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/Spring_Breeze/Mt_Dedede.png"
+	},
+	{
+		"name": "Gourmet Race 1",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/Gourmet_Race/gourmetrace1.png"
+	},
+	{
+		"name": "Gourmet Race 2",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/Gourmet_Race/gourmetrace2.png"
+	},
+	{
+		"name": "Gourmet Race 3",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/Gourmet_Race/gourmetrace3.png"
+	},
+	{
+		"name": "Overworld Map",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/DynaBlade/DynaBlade.png"
+	},
+	{
+		"name": "Peanut Plains Area 1",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/DynaBlade/PeanutPlains1.png"
+	},
+    {
+		"name": "Peanut Plains Area 2",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/DynaBlade/PeanutPlains2.png"
+	},
+    {
+		"name": "Peanut Plains Area 3",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/DynaBlade/PeanutPlains3.png"
+	},
+	{
+		"name": "Mallow Castle Area 1",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/DynaBlade/MallowCastle1.png"
+	},
+    {
+		"name": "Mallow Castle Area 2",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/DynaBlade/MallowCastle2.png"
+	},
+	{
+		"name": "Cocoa Cave Area 1",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/DynaBlade/CocoaCave1.png"
+	},
+    {
+		"name": "Cocoa Cave Area 2",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/DynaBlade/CocoaCave2.png"
+	},
+    {
+		"name": "Cocoa Cave Area 3",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/DynaBlade/CocoaCave3.png"
+	},
+    {
+		"name": "Cocoa Cave Area 4",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/DynaBlade/CocoaCave4.png"
+	},
+    {
+		"name": "Candy Mountain Area 1",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/DynaBlade/CandyMountain1.png"
+	},
+	{
+		"name": "Candy Mountain Top Door",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/DynaBlade/CandyMountain2T.png"
+	},
+    {
+		"name": "Candy Mountain Bottom Door",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/DynaBlade/CandyMountain2B.png"
+	},
+    {
+		"name": "Candy Mountain Area 3",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/DynaBlade/CandyMountain3.png"
+	},
+    {
+		"name": "Candy Mountain Area 4",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/DynaBlade/CandyMountain4.png"
+	},
+    {
+		"name": "Candy Mountain Area 5",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/DynaBlade/CandyMountain5.png"
+	},
+	{
+		"name": "Sub-Tree Area 1",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/GCO/Sub-Tree/gco2.png"
+	},
+	{
+		"name": "Sub-Tree Area 2",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/GCO/Sub-Tree/gco3.png"
+	},
+	{
+		"name": "Sub-Tree Area 3",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/GCO/Sub-Tree/gco4.png"
+	},
+	{
+		"name": "Sub-Tree Area 4",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/GCO/Sub-Tree/gco5.png"
+	},
+	{
+		"name": "Sub-Tree Area 5",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/GCO/Sub-Tree/gco6.png"
+	},
+	{
+		"name": "Sub-Tree Boss",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/GCO/Sub-Tree/gcoboss1.png"
+	},
+	{
+		"name": "Crystal Starting Area",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/GCO/Crystal/gco10.png"
+	},
+	{
+		"name": "Crystal Left Door Area",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/GCO/Crystal/gco13.png"
+	},
+	{
+		"name": "Crystal Middle Door Area",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/GCO/Crystal/gco14.png"
+	},
+	{
+		"name": "Crystal Right Door Area",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/GCO/Crystal/gco15.png"
+	},
+	{
+		"name": "Crystal Boss",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/GCO/Crystal/gcoboss2.png"
+	},
+	{
+		"name": "Old Tower Area 1",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/GCO/Old_Tower/gcoot1.png"
+	},
+	{
+		"name": "Old Tower Area 2",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/GCO/Old_Tower/gcoot2.png"
+	},
+	{
+		"name": "Old Tower Area 3",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/GCO/Old_Tower/gcoot3.png"
+	},
+	{
+		"name": "Old Tower Area 4",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/GCO/Old_Tower/gcoot4.png"
+	},
+	{
+		"name": "Old Tower Area 5",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/GCO/Old_Tower/gcoot5.png"
+	},
+	{
+		"name": "Old Tower Area 6",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/GCO/Old_Tower/gcoot6.png"
+	},
+	{
+		"name": "Old Tower Area 7",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/GCO/Old_Tower/gcoot7.png"
+	},
+	{
+		"name": "Garden Starting Area",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/GCO/Garden/gcogstart.png"
+	},
+	{
+		"name": "Garden Left Door Area",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/GCO/Garden/gcogleft.png"
+	},
+	{
+		"name": "Garden Cloud Area",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/GCO/Garden/gcogcloud.png"
+	},
+	{
+		"name": "Garden Right Door Area",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/GCO/Garden/gcogright.png"
+	},
+	{
+		"name": "Garden Center Door Area",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/GCO/Garden/gcogcenter.png"
+	},
+	{
+		"name": "Chapter 1",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/RoMK/Ch1.png"
+	},
+	{
+		"name": "Chapter 2 Area 1",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/RoMK/Ch2-1.png"
+	},
+    {
+		"name": "Chapter 2 Area 2",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/RoMK/Ch2-2.png"
+	},
+	{
+		"name": "Chapter 3 Area 1",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/RoMK/Ch3-1.png"
+	},
+    {
+		"name": "Chapter 3 Area 2",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/RoMK/Ch3-2.png"
+	},
+	{
+		"name": "Chapter 4 Area 1",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/RoMK/Ch4-1.png"
+	},
+    {
+		"name": "Chapter 4 Area 2",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/RoMK/Ch4-2.png"
+	},
+    {
+		"name": "Chapter 4 Area 3",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/RoMK/Ch4-3.png"
+	},
+	{
+		"name": "Chapter 5 Area 1",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/RoMK/Ch5-1.png"
+	},
+    {
+		"name": "Chapter 5 Area 2",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/RoMK/Ch5-2.png"
+	},
+	{
+		"name": "Chapter 6 Area 1",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/RoMK/Ch6-1.png"
+	},
+    {
+		"name": "Chapter 6 Area 2",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/RoMK/Ch6-2.png"
+	},
+    {
+		"name": "Chapter 6 Area 3",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/RoMK/Ch6-3.png"
+	},
+	{
+		"name": "Chapter 7",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/RoMK/Ch7.png"
+	},
+	{
+		"name": "Floria Spring",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/MWW/Floria1.png"
+	},
+    {
+		"name": "Floria Summer",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/MWW/Floria2.png"
+	},
+    {
+		"name": "Floria Autumn",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/MWW/Floria3.png"
+	},
+    {
+		"name": "Floria Winter",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/MWW/Floria4.png"
+	},
+	{
+		"name": "Aqualiss Area 1",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/MWW/Aqualiss_1.png"
+	},
+	{
+		"name": "Aqualiss Area 2",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/MWW/Aqualiss_2.png"
+	},
+	{
+		"name": "Skyhigh Start",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/MWW/Skyhigh_1.png"
+	},
+	{
+		"name": "Skyhigh Maze",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/MWW/Skyhigh_2.png"
+	},
+	{
+		"name": "Hotbeat Area 1",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/MWW/Hotbeat_1.png"
+	},
+	{
+		"name": "Hotbeat Area 2",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/MWW/Hotbeat_2.png"
+	},
+	{
+		"name": "Hotbeat Area 3",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/MWW/Hotbeat_3.png"
+	},
+	{
+		"name": "Cavios Area 1",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/MWW/Cavios_1.png"
+	},
+	{
+		"name": "Cavios Area 2",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/MWW/Cavios_2.png"
+	},
+	{
+		"name": "Mecheye Area 1",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/MWW/Mecheye1.png"
+	},
+    {
+		"name": "Mecheye Area 2",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/MWW/Mecheye2.png"
+	},
+    {
+		"name": "Mecheye Area 3",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/MWW/Mecheye3.png"
+	},
+	{
+		"name": "Halfmoon Area 1",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/MWW/Halfmoon1.png"
+	},
+    {
+		"name": "Halfmoon Area 2",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/MWW/Halfmoon2.png"
+	},
+    {
+		"name": "Halfmoon Area 3",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/MWW/Halfmoon3.png"
+	},
+    {
+		"name": "Halfmoon Area 4",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/MWW/Halfmoon4.png"
+	},
+	{
+		"name": "Galaxy Map",
+		"location_size": 18,
+		"location_border_thickness": 4,
+		"img": "images/MWW/KSS_MilkyWayWishes.png"
+	}
+]

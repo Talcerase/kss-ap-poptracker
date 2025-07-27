@@ -1,0 +1,45 @@
+{
+	"tracker_broadcast": {
+		"type": "array",
+		"orientation": "vertical",
+		"h_alignment": "center",
+		"margin": "5,5",
+		"background": "#212121",
+		"content": [
+			{
+				"type": "itemgrid",
+				"h_alignment": "left",
+				"margin": "2,2",
+				"item_margin": "0,0",
+				"rows": [
+					["Ice", "Plasma", "Yo-Yo", "Bomb", "Sword", "Fire"],
+					["Wing", "Cutter", "Mirror", "Beam", "Fighter", "Parasol"],
+					["Stone", "Wheel", "Jet", "Suplex", "Hammer", "Ninja"],
+					["Crash", "Cook", "Mike", "Sleep", "Paint", "Copy"]
+					]
+			},
+			{
+				"type": "itemgrid",
+				"h_alignment": "left",
+				"margin": "2,2",
+				"item_margin": "2,2",
+				"rows": [
+					["Spring Breeze", "Gourmet Race", "The Great Cave Offensive", "Revenge of Meta Knight", "The Arena"],
+                    ["", "Dyna Blade", "Dyna Blade - Extra 1", "Dyna Blade - Extra 2"],
+					["Milky Way Wishes", "Floria", "Aqualiss", "Skyhigh", "Hotbeat"],
+                    ["", "Cavios", "Mecheye", "Halfmoon", "???"]
+					]
+			},
+			{
+				"type": "itemgrid",
+				"h_alignment": "left",
+				"margin": "0,0",
+				"item_margin": "1,1",
+				"rows": [
+				["", "Essences", "1-Up", "Maxim Tomato", "Invincibility Candy"],
+                ["", "Rainbow Stars", "", "", "Gold"]
+				]
+			}
+		]
+	}
+}

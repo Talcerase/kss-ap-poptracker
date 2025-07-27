@@ -1,0 +1,1184 @@
+{
+    "tracker_default": {
+        "type": "container",
+        "background": "#000000",
+        "content": [
+            {
+                "type": "dock",
+                "dropshadow": true,
+                "content": [
+                    {
+                        "type": "dock",
+                        "dock": "bottom",
+                        "content": [
+                            {
+                                "type": "group",
+                                "header": "Sub-Games",
+                                "dock": "left",
+                                "margin": "0,0,3,0",
+                                "content": {
+                                    "type": "layout",
+                                    "h_alignment": "center",
+                                    "v_alignment": "center",
+                                    "key": "games_grid"
+                                }
+                            },
+                            {
+                                "type": "group",
+                                "header": "Abilities",
+                                "dock": "left",
+                                "margin": "0,0,3,0",
+                                "content": {
+                                    "type": "layout",
+                                    "h_alignment": "center",
+                                    "v_alignment": "center",
+                                    "key": "abilities_grid"
+                                }
+                            },
+                            {
+                                "type": "group",
+                                "header": "Planets, Gold, Stars & Settings",
+                                "dock": "left",
+                                "margin": "0,0,3,0",
+                                "content": {
+                                    "type": "layout",
+                                    "h_alignment": "center",
+                                    "v_alignment": "center",
+                                    "key": "misc_grid"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "v_alignment": "stretch",
+                        "margin": "0,0",
+                        "content": [
+                            {
+                                "type": "tabbed",
+                                "dock": "top",
+                                "tabs": [
+                                    {
+                                        "title": "Game Select",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Game Select"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Spring Breeze",
+                                        "content": {
+                                            "type": "tabbed",
+                                            "tabs": [
+                                                {
+                                                    "title": "Green Greens",
+                                                    "content": [
+                                                        {
+                                                            "type": "map",
+                                                            "maps": [
+                                                                "Green Greens"
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "title": "Float Islands",
+                                                    "content": [
+                                                        {
+                                                            "type": "map",
+                                                            "maps": [
+                                                                "Float Islands"
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "title": "Bubbly Clouds",
+                                                    "content": [
+                                                        {
+                                                            "type": "map",
+                                                            "maps": [
+                                                                "Bubbly Clouds"
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "title": "Mt. Dedede",
+                                                    "content": [
+                                                        {
+                                                            "type": "map",
+                                                            "maps": [
+                                                                "Mt. Dedede"
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Dyna Blade",
+                                        "content": [
+                                            {
+                                                "type": "tabbed",
+                                                "tabs": [
+                                                    {
+                                                        "title": "Overworld Map",
+                                                        "content": [
+                                                            {
+                                                                "type": "map",
+                                                                "maps": [
+                                                                    "Overworld Map"
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "title": "Peanut Plains",
+                                                        "content": [
+                                                            {
+                                                                "type": "tabbed",
+                                                                "tabs": [
+                                                                    {
+                                                                        "title": "Area 1",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Peanut Plains Area 1"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Area 2",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Peanut Plains Area 2"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Area 3",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Peanut Plains Area 3"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "title": "Mallow Castle",
+                                                        "content": [
+                                                            {
+                                                                "type": "tabbed",
+                                                                "tabs": [
+                                                                    {
+                                                                        "title": "Area 1",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Mallow Castle Area 1"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Area 2",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Mallow Castle Area 2"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "title": "Cocoa Cave",
+                                                        "content": [
+                                                            {
+                                                                "type": "tabbed",
+                                                                "tabs": [
+                                                                    {
+                                                                        "title": "Area 1",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Cocoa Cave Area 1"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Area 2",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Cocoa Cave Area 2"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Area 3",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Cocoa Cave Area 3"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Area 4",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Cocoa Cave Area 4"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "title": "Candy Mountain",
+                                                        "content": [
+                                                            {
+                                                                "type": "tabbed",
+                                                                "tabs": [
+                                                                    {
+                                                                        "title": "Area 1",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Candy Mountain Area 1"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Top Door",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Candy Mountain Top Door"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Bottom Door",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Candy Mountain Bottom Door"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Area 3",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Candy Mountain Area 3"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Area 4",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Candy Mountain Area 4"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Area 5",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Candy Mountain Area 5"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Revenge of Meta Knight",
+                                        "content": [
+                                            {
+                                                "type": "tabbed",
+                                                "tabs": [
+                                                    {
+                                                        "title": "Chapter 1",
+                                                        "content": [
+                                                            {
+                                                                "type": "map",
+                                                                "maps": [
+                                                                    "Chapter 1"
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "title": "Chapter 2",
+                                                        "content": [
+                                                            {
+                                                                "type": "tabbed",
+                                                                "tabs": [
+                                                                    {
+                                                                        "title": "Area 1",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Chapter 2 Area 1"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Area 2",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Chapter 2 Area 2"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "title": "Chapter 3",
+                                                        "content": [
+                                                            {
+                                                                "type": "tabbed",
+                                                                "tabs": [
+                                                                    {
+                                                                        "title": "Area 1",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Chapter 3 Area 1"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Area 2",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Chapter 3 Area 2"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "title": "Chapter 4",
+                                                        "content": [
+                                                            {
+                                                                "type": "tabbed",
+                                                                "tabs": [
+                                                                    {
+                                                                        "title": "Area 1",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Chapter 4 Area 1"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Area 2",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Chapter 4 Area 2"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Area 3",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Chapter 4 Area 3"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "title": "Chapter 5",
+                                                        "content": [
+                                                            {
+                                                                "type": "tabbed",
+                                                                "tabs": [
+                                                                    {
+                                                                        "title": "Area 1",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Chapter 5 Area 1"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Area 2",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Chapter 5 Area 2"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "title": "Chapter 6",
+                                                        "content": [
+                                                            {
+                                                                "type": "tabbed",
+                                                                "tabs": [
+                                                                    {
+                                                                        "title": "Area 1",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Chapter 6 Area 1"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Area 2",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Chapter 6 Area 2"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Area 3",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Chapter 6 Area 3"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "title": "Chapter 7",
+                                                        "content": [
+                                                            {
+                                                                "type": "map",
+                                                                "maps": [
+                                                                    "Chapter 7"
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Milky Way Wishes",
+                                        "content": [
+                                            {
+                                                "type": "tabbed",
+                                                "tabs": [
+                                                    {
+                                                        "title": "Galaxy",
+                                                        "content": [
+                                                            {
+                                                                "type": "map",
+                                                                "maps": [
+                                                                    "Galaxy Map"
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "title": "Floria",
+                                                        "content": [
+                                                            {
+                                                                "type": "tabbed",
+                                                                "tabs": [
+                                                                    {
+                                                                        "title": "Spring",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Floria Spring"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Summer",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Floria Summer"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Autumn",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Floria Autumn"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Winter",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Floria Winter"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "title": "Aqualiss",
+                                                        "content": [
+                                                            {
+                                                                "type": "tabbed",
+                                                                "tabs": [
+                                                                    {
+                                                                        "title": "Aqualiss Area 1",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Aqualiss Area 1"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Aqualiss Area 2",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Aqualiss Area 2"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "title": "Skyhigh",
+                                                        "content": [
+                                                            {
+                                                                "type": "tabbed",
+                                                                "tabs": [
+                                                                    {
+                                                                        "title": "Skyhigh Start",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Skyhigh Start"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Skyhigh Maze",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Skyhigh Maze"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "title": "Hotbeat",
+                                                        "content": [
+                                                            {
+                                                                "type": "tabbed",
+                                                                "tabs": [
+                                                                    {
+                                                                        "title": "Hotbeat Area 1",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Hotbeat Area 1"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Hotbeat Area 2",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Hotbeat Area 2"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Hotbeat Area 3",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Hotbeat Area 3"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "title": "Cavios",
+                                                        "content": [
+                                                            {
+                                                                "type": "tabbed",
+                                                                "tabs": [
+                                                                    {
+                                                                        "title": "Cavios Area 1",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Cavios Area 1"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Cavios Area 2",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Cavios Area 2"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "title": "Mecheye",
+                                                        "content": [
+                                                            {
+                                                                "type": "tabbed",
+                                                                "tabs": [
+                                                                    {
+                                                                        "title": "Mecheye Area 1",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Mecheye Area 1"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Mecheye Area 2",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Mecheye Area 2"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Mecheye Area 3",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Mecheye Area 3"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "title": "Halfmoon",
+                                                        "content": [
+                                                            {
+                                                                "type": "tabbed",
+                                                                "tabs": [
+                                                                    {
+                                                                        "title": "Halfmoon Area 1",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Halfmoon Area 1"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Halfmoon Area 2",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Halfmoon Area 2"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Halfmoon Area 3",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Halfmoon Area 3"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Halfmoon Area 4",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Halfmoon Area 4"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "The Great Cave Offensive",
+                                        "content": [
+                                            {
+                                                "type": "tabbed",
+                                                "tabs": [
+                                                    {
+                                                        "title": "Sub-Tree",
+                                                        "content": [
+                                                            {
+                                                                "type": "tabbed",
+                                                                "tabs": [
+                                                                    {
+                                                                        "title": "Sub-Tree Area 1",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Sub-Tree Area 1"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Sub-Tree Area 2",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Sub-Tree Area 2"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Sub-Tree Area 3",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Sub-Tree Area 3"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Sub-Tree Area 4",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Sub-Tree Area 4"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Sub-Tree Area 5",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Sub-Tree Area 5"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Sub-Tree Boss",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Sub-Tree Boss"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "title": "Crystal",
+                                                        "content": [
+                                                            {
+                                                                "type": "tabbed",
+                                                                "tabs": [
+                                                                    {
+                                                                        "title": "Crystal Starting Area",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Crystal Starting Area"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Crystal Left Door Area",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Crystal Left Door Area"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Crystal Middle Door Area",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Crystal Middle Door Area"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Crystal Right Door Area",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Crystal Right Door Area"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Crystal Boss",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Crystal Boss"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "title": "Old Tower",
+                                                        "content": [
+                                                            {
+                                                                "type": "tabbed",
+                                                                "tabs": [
+                                                                    {
+                                                                        "title": "Old Tower Area 1",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Old Tower Area 1"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Old Tower Area 2",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Old Tower Area 2"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Old Tower Area 3",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Old Tower Area 3"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Old Tower Area 4",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Old Tower Area 4"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Old Tower Area 5",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Old Tower Area 5"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Old Tower Area 6",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Old Tower Area 6"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Old Tower Area 7",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Old Tower Area 7"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "title": "Garden",
+                                                        "content": [
+                                                            {
+                                                                "type": "tabbed",
+                                                                "tabs": [
+                                                                    {
+                                                                        "title": "Garden Starting Area",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Garden Starting Area"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Garden Left Door Area",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Garden Left Door Area"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Garden Cloud Area",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Garden Cloud Area"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Garden Center Door Area",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Garden Center Door Area"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Garden Right Door Area",
+                                                                        "content": [
+                                                                            {
+                                                                                "type": "map",
+                                                                                "maps": [
+                                                                                    "Garden Right Door Area"
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+	"games_grid": {
+		"type": "array",
+		"orientation": "vertical",
+		"margin": "0,0",
+		"content": [
+			{
+				"type": "array",
+				"orientation": "horizontal",
+				"margin": "0,0",
+				"content": [
+					{
+						"type": "itemgrid",
+						"item_margin": "1,1",
+						"h_alignment": "left",
+						"item_h_alignment": "center",
+						"rows": [
+							[
+								"Spring Breeze",
+								"Gourmet Race",
+                                "Milky Way Wishes"
+							],
+							[
+								"Dyna Blade",
+                                "The Great Cave Offensive",
+                                "Revenge of Meta Knight"
+							],
+                            [
+                                "",
+                                "The Arena"
+                            ]
+						]
+					}
+				]
+			}
+		]
+	}
+}

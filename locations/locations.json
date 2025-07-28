@@ -136,8 +136,8 @@
                         "name": "Float Islands 1-Up"
                     },
                     {
-                        "ref": "Spring Breeze - Float Islands/FI: Candy/Invincible Candy",
-                        "name": "Float Islands Invincible Candy"
+                        "ref": "Spring Breeze - Float Islands/FI: Invincibility Candy/Invincibility Candy",
+                        "name": "Float Islands Invincibility Candy"
                     },
                     {
                         "ref": "Spring Breeze - Float Islands/FI: Boss/Lololo+Lalala",
@@ -204,8 +204,8 @@
                         "name": "Peanut Plains Maxim Tomato 3"
                     },
                     {
-                        "ref": "DynaBlade - Peanut Plains/PP Invincible Candy/Invincible Candy",
-                        "name": "Peanut Plains Invincible Candy"
+                        "ref": "DynaBlade - Peanut Plains/PP Invincibility Candy/Invincibility Candy",
+                        "name": "Peanut Plains Invincibility Candy"
                     },
                     {
                         "ref": "DynaBlade - Peanut Plains/PP Sword Trohpy/Sword",
@@ -276,11 +276,11 @@
                         "name": "Candy Mountain Hidden Switch"
                     },
                     {
-                        "ref": "DynaBlade - Candy Mountain/CM Invincible Candy/Invincible Candy",
-                        "name": "Candy Mountain Invincible Candy"
+                        "ref": "DynaBlade - Candy Mountain/CM Invincibility Candy/Invincibility Candy",
+                        "name": "Candy Mountain Invincibility Candy"
                     },
                     {
-                        "ref": "DyanBlade - Candy Mountain/CM Hammer Essence/Hammer",
+                        "ref": "DynaBlade - Candy Mountain/CM Hammer Essence/Hammer",
                         "name": "Candy Mountain Hammer"
                     },
                     {
@@ -296,7 +296,7 @@
                         "name": "Candy Mountain Maxim Tomato 2"
                     },
                     {
-                        "ref": "DynaBlade - Candy Mountain/CM Maxim Tomato 3/Maxim Tomato",
+                        "ref": "DynaBlade - Candy Mountain/CM Maxim Tomato 3/Maxim Tomato (Boss)",
                         "name": "Candy Mountain Maxim Tomato 3"
                     },
                     {
@@ -324,115 +324,115 @@
                         "name": "Candy Mountain 1-Up 6"
                     },
                     {
-                        "ref": "Overworld Map/DynaBlade - Nest/DynaBlade Fight",
+                        "ref": "DynaBlade Overworld/DynaBlade - Nest/DynaBlade Fight",
                         "name": "DynaBlade Defeated"
                     },
                     {
-                        "ref": "Overworld Map/DynaBlade - Nest/Cutter",
+                        "ref": "DynaBlade Overworld/DynaBlade - Nest/Cutter",
                         "name": "DynaBlade's Nest Cutter"
                     },
                     {
-                        "ref": "Overworld Map/DynaBlade - Nest/Beam",
+                        "ref": "DynaBlade Overworld/DynaBlade - Nest/Beam",
                         "name": "DynaBlade's Nest Beam"
                     },
                     {
-                        "ref": "Overworld Map/DynaBlade - Nest/Fire",
+                        "ref": "DynaBlade Overworld/DynaBlade - Nest/Fire",
                         "name": "DynaBlade's Nest Fire"
                     },
                     {
-                        "ref": "Overworld Map/DynaBlade - Nest/Sword",
+                        "ref": "DynaBlade Overworld/DynaBlade - Nest/Sword",
                         "name": "DynaBlade's Nest Sword"
                     },
                     {
-                        "ref": "Overworld Map/DynaBlade - Bonus 1/Left Maxim",
+                        "ref": "DynaBlade Overworld/DynaBlade - Bonus 1/Left Maxim",
                         "name": "Bonus 1 Left Maxim"
                     },
                     {
-                        "ref": "Overworld Map/DynaBlade - Bonus 1/Right Maxim",
+                        "ref": "DynaBlade Overworld/DynaBlade - Bonus 1/Right Maxim",
                         "name": "Bonus 1 Right Maxim"
                     },
                     {
-                        "ref": "Overworld Map/DynaBlade - Bonus 1/Beam",
+                        "ref": "DynaBlade Overworld/DynaBlade - Bonus 1/Beam",
                         "name": "Bonus 1 Beam"
                     },
                     {
-                        "ref": "Overworld Map/DynaBlade - Bonus 1/Fire",
+                        "ref": "DynaBlade Overworld/DynaBlade - Bonus 1/Fire",
                         "name": "Bonus 1 Fire"
                     },
                     {
-                        "ref": "Overworld Map/DynaBlade - Bonus 1/Mirror",
+                        "ref": "DynaBlade Overworld/DynaBlade - Bonus 1/Mirror",
                         "name": "Bonus 1 Mirror"
                     },
                     {
-                        "ref": "Overworld Map/DynaBlade - Bonus 1/Fighter",
+                        "ref": "DynaBlade Overworld/DynaBlade - Bonus 1/Fighter",
                         "name": "Bonus 1 Fighter"
                     },
                     {
-                        "ref": "Overworld Map/DynaBlade - Bonus 1/Cutter",
+                        "ref": "DynaBlade Overworld/DynaBlade - Bonus 1/Cutter",
                         "name": "Bonus 1 Cutter"
                     },
                     {
-                        "ref": "Overworld Map/DynaBlade - Bonus 1/Plasma",
+                        "ref": "DynaBlade Overworld/DynaBlade - Bonus 1/Plasma",
                         "name": "Bonus 1 Plasma"
                     },
                     {
-                        "ref": "Overworld Map/DynaBlade - Bonus 1/Ninja",
+                        "ref": "DynaBlade Overworld/DynaBlade - Bonus 1/Ninja",
                         "name": "Bonus 1 Ninja"
                     },
                     {
-                        "ref": "Overworld Map/DynaBlade - Bonus 1/Sword",
+                        "ref": "DynaBlade Overworld/DynaBlade - Bonus 1/Sword",
                         "name": "Bonus 1 Sword"
                     },
                     {
-                        "ref": "Overworld Map/DynaBlade - Bonus 1/Bomb",
+                        "ref": "DynaBlade Overworld/DynaBlade - Bonus 1/Bomb",
                         "name": "Bonus 1 Bomb"
                     },
                     {
-                        "ref": "Overworld Map/DynaBlade - Bonus 1/Hammer",
+                        "ref": "DynaBlade Overworld/DynaBlade - Bonus 1/Hammer",
                         "name": "Bonus 1 Hammer"
                     },
                     {
-                        "ref": "Overworld Map/DynaBlade - Bonus 2/Wheel",
+                        "ref": "DynaBlade Overworld/DynaBlade - Bonus 2/Wheel",
                         "name": "Bonus 2 Wheel"
                     },
                     {
-                        "ref": "Overworld Map/DynaBlade - Bonus 2/Yo-Yo",
+                        "ref": "DynaBlade Overworld/DynaBlade - Bonus 2/Yo-Yo",
                         "name": "Bonus 2 Yo-Yo"
                     },
                     {
-                        "ref": "Overworld Map/DynaBlade - Bonus 2/Wing",
+                        "ref": "DynaBlade Overworld/DynaBlade - Bonus 2/Wing",
                         "name": "Bonus 2 Wing"
                     },
                     {
-                        "ref": "Overworld Map/DynaBlade - Bonus 2/Stone",
+                        "ref": "DynaBlade Overworld/DynaBlade - Bonus 2/Stone",
                         "name": "Bonus 2 Stone"
                     },
                     {
-                        "ref": "Overworld Map/DynaBlade - Bonus 2/Parasol",
+                        "ref": "DynaBlade Overworld/DynaBlade - Bonus 2/Parasol",
                         "name": "Bonus 2 Parasol"
                     },
                     {
-                        "ref": "Overworld Map/DynaBlade - Bonus 2/Jet",
+                        "ref": "DynaBlade Overworld/DynaBlade - Bonus 2/Jet",
                         "name": "Bonus 2 Jet"
                     },
                     {
-                        "ref": "Overworld Map/DynaBlade - Bonus 2/Ice",
+                        "ref": "DynaBlade Overworld/DynaBlade - Bonus 2/Ice",
                         "name": "Bonus 2 Ice"
                     },
                     {
-                        "ref": "Overworld Map/DynaBlade - Bonus 2/Suplex",
+                        "ref": "DynaBlade Overworld/DynaBlade - Bonus 2/Suplex",
                         "name": "Bonus 2 Suplex"
                     },
                     {
-                        "ref": "Overworld Map/DynaBlade - Bonus 2/Copy",
+                        "ref": "DynaBlade Overworld/DynaBlade - Bonus 2/Copy",
                         "name": "Bonus 2 Copy"
                     },
                     {
-                        "ref": "Overworld Map/DynaBlade - Bonus 2/Maxim Tomato",
+                        "ref": "DynaBlade Overworld/DynaBlade - Bonus 2/Maxim Tomato",
                         "name": "Bonus 2 Maxim Tomato"
                     },
                     {
-                        "ref": "Overworld Map/DynaBlade - Nest/DynaBlade Clear",
+                        "ref": "DynaBlade Overworld/DynaBlade - Nest/DynaBlade Clear",
                         "name": "DynaBlade Clear"
                     }
                 ],
@@ -652,11 +652,11 @@
                         "name": "Ch6 Wing (Clouds)"
                     },
                     {
-                        "ref": "Revenge of Meta Knight - Chapter 6/CH6 Switch Maze Top Essense/Wing",
+                        "ref": "Revenge of Meta Knight - Chapter 6/CH6 Switch Maze Top Essence/Wing",
                         "name": "Ch6 Wing (Switch Maze)"
                     },
                     {
-                        "ref": "Revenge of Meta Knight - Chapter 6/CH6 Switch Maze Bottom Essense/Suplex",
+                        "ref": "Revenge of Meta Knight - Chapter 6/CH6 Switch Maze Bottom Essence/Suplex",
                         "name": "Ch6 Suplex"
                     },
                     {
@@ -664,7 +664,7 @@
                         "name": "Ch6 Yo-Yo"
                     },
                     {
-                        "ref": "Revenge of Meta Knight - Chapter 6/CH6 Boss Essense/Bomb",
+                        "ref": "Revenge of Meta Knight - Chapter 6/CH6 Boss Essence/Bomb",
                         "name": "Ch6 Bomb"
                     },
                     {
@@ -708,16 +708,16 @@
                         "name": "CH7 Ninja (Start)"
                     },
                     {
-                        "ref": "Revenge of Meta Knight - Chapter 7/CH7 Boss Essence 1/Ninja",
-                        "name": "CH7 Ninja (Boss)"
+                        "ref": "Revenge of Meta Knight - Chapter 7/CH7 Boss Essence 1/Cutter",
+                        "name": "CH7 Cutter (Boss)"
                     },
                     {
                         "ref": "Revenge of Meta Knight - Chapter 7/CH7 Boss Essence 2/Sleep",
                         "name": "CH7 Sleep (Boss)"
                     },
                     {
-                        "ref": "Revenge of Meta Knight - Chapter 7/CH7 Boss Essence 3/Cutter",
-                        "name": "CH7 Cutter (Boss)"
+                        "ref": "Revenge of Meta Knight - Chapter 7/CH7 Boss Essence 3/Ninja",
+                        "name": "CH7 Ninja (Boss)"
                     },
                     {
                         "ref": "Revenge of Meta Knight - Chapter 7/CH7 Escape/RoMK Clear",
@@ -932,7 +932,7 @@
                         "name": "Maxim Tomato (Pre-Boss)"
                     },
                     {
-                        "ref": "TCGO Crystal Boss/Boss/Computer Virus",
+                        "ref": "TGCO Crystal Boss/Boss/Computer Virus",
                         "name": "Computer Virus"
                     },
                     {
@@ -1152,7 +1152,7 @@
                         "name": "Garden Jet"
                     },
                     {
-                        "ref": "TGCO Garden Starting Area/Middle Essence/Wing (Wind)",
+                        "ref": "TGCO Garden Starting Area/Middle Essence/Wing",
                         "name": "Garden Wing (Wind)"
                     },
                     {
@@ -1344,7 +1344,7 @@
                         "name": "Twin Woods"
                     },
                     {
-                        "ref": "MWW Aqualiss/Beam Essense/Beam",
+                        "ref": "MWW Aqualiss/Beam Essence/Beam",
                         "name": "Beam"
                     },
                     {
@@ -1440,7 +1440,7 @@
                         "name": "Hotbeat Maxim Tomato (With Food)"
                     },
                     {
-                        "ref": "MWW Hotbeat/Minecart Room Top Route Maxim Tomato/Maxim Tomato",
+                        "ref": "MWW Hotbeat/Minecart Room Maxim Tomato Top Route/Maxim Tomato",
                         "name": "Hotbeat Maxim Tomato (Top Route)"
                     },
                     {
@@ -1568,7 +1568,7 @@
                         "name": "Mecheye Maxim Tomato (Mini-Boss Tower)"
                     },
                     {
-                        "ref": "MWW Mecheye/Plasma Maxim Tomato/Maxim Tomato",
+                        "ref": "MWW Mecheye/Plasma Room Maxim Tomato/Maxim Tomato",
                         "name": "Mecheye Maxim Tomato (Plasma)"
                     },
                     {
@@ -1936,8 +1936,8 @@
                         "name": "Peanut Plains Maxim Tomato 3"
                     },
                     {
-                        "ref": "DynaBlade - Peanut Plains/PP Invincible Candy/Invincible Candy",
-                        "name": "Peanut Plains Invincible Candy"
+                        "ref": "DynaBlade - Peanut Plains/PP Invincibility Candy/Invincibility Candy",
+                        "name": "Peanut Plains Invincibility Candy"
                     },
                     {
                         "ref": "DynaBlade - Peanut Plains/PP Sword Trohpy/Sword",
@@ -2040,11 +2040,11 @@
                         "name": "Candy Mountain Hidden Switch"
                     },
                     {
-                        "ref": "DynaBlade - Candy Mountain/CM Invincible Candy/Invincible Candy",
-                        "name": "Candy Mountain Invincible Candy"
+                        "ref": "DynaBlade - Candy Mountain/CM Invincibility Candy/Invincibility Candy",
+                        "name": "Candy Mountain Invincibility Candy"
                     },
                     {
-                        "ref": "DyanBlade - Candy Mountain/CM Hammer Essence/Hammer",
+                        "ref": "DynaBlade - Candy Mountain/CM Hammer Essence/Hammer",
                         "name": "Candy Mountain Hammer"
                     },
                     {
@@ -2060,7 +2060,7 @@
                         "name": "Candy Mountain Maxim Tomato 2"
                     },
                     {
-                        "ref": "DynaBlade - Candy Mountain/CM Maxim Tomato 3/Maxim Tomato",
+                        "ref": "DynaBlade - Candy Mountain/CM Maxim Tomato 3/Maxim Tomato (Boss)",
                         "name": "Candy Mountain Maxim Tomato 3"
                     },
                     {
@@ -2485,7 +2485,7 @@
                 ]
             },
             {
-                "name": "PP Sword Trophy",
+                "name": "PP Sword Essence",
                 "sections": [
                     {
                         "name": "Sword",
@@ -2838,7 +2838,7 @@
                 "sections": [
                     {
                         "ref": "DynaBlade - Candy Mountain/CM Hammer Essence/Hammer",
-                        "name": "CM Hammer Essense"
+                        "name": "CM Hammer Essence"
                     },
                     {
                         "ref": "DynaBlade - Candy Mountain/CM 1-Up 1/1-Up",
@@ -2936,10 +2936,10 @@
                 ]
             },
             {
-                "name": "CM Invincible Candy",
+                "name": "CM Invincibility Candy",
                 "sections": [
                     {
-                        "name": "Invincible Candy",
+                        "name": "Invincibility Candy",
                         "chest_unopened_img": "/images/InvincibleCandy2.png",
                         "chest_opened_img": "/images/InvincibleCandy.png",
                         "visibility_rules": [
@@ -4653,7 +4653,7 @@
                 ]
             },
             {
-                "name": "CH7 Starting Essence 2",
+                "name": "CH7 Boss Essence 2",
                 "sections": [
                     {
                         "name": "Sleep",
@@ -4755,7 +4755,7 @@
                 "name": "Aqualiss",
                 "sections": [
                     {
-                        "ref": "MWW Aqualiss/Beam Essense/Beam",
+                        "ref": "MWW Aqualiss/Beam Essence/Beam",
                         "name": "Beam"
                     },
                     {
@@ -4875,7 +4875,7 @@
                         "name": "Hotbeat Maxim Tomato (With Food)"
                     },
                     {
-                        "ref": "MWW Hotbeat/Minecart Room Top Route Maxim Tomato/Maxim Tomato",
+                        "ref": "MWW Hotbeat/Minecart Room Maxim Tomato Top Route/Maxim Tomato",
                         "name": "Hotbeat Maxim Tomato (Top Route)"
                     },
                     {
@@ -4955,7 +4955,7 @@
                         "name": "Cavios Maxim Tomato (Blue)"
                     },
                     {
-                        "ref": "MWW Cavios/Stone Essence Maxim Tomato/Maxim Tomato",
+                        "ref": "MWW Cavios/Stone Essence/Maxim Tomato",
                         "name": "Cavios Maxim Tomato (Stone)"
                     },
                     {
@@ -4963,11 +4963,11 @@
                         "name": "Cavios 1-Up (Stake)"
                     },
                     {
-                        "ref": "MWW Cavios/Stone Essence 1-Up/1-Up",
+                        "ref": "MWW Cavios/Stone Essence/1-Up",
                         "name": "Cavios 1-Up (Stone)"
                     },
                     {
-                        "ref": "MWW Cavios/Stone Essence Invincibility Candy/Invincibily Candy",
+                        "ref": "MWW Cavios/Stone Essence/Invincibily Candy",
                         "name": "Cavios Invincibility Candy"
                     },
                     {
@@ -5027,7 +5027,7 @@
                         "name": "Mecheye Maxim Tomato (Mini-Boss Tower)"
                     },
                     {
-                        "ref": "MWW Mecheye/Plasma Maxim Tomato/Maxim Tomato",
+                        "ref": "MWW Mecheye/Plasma Room Maxim Tomato/Maxim Tomato",
                         "name": "Mecheye Maxim Tomato (Plasma)"
                     },
                     {
@@ -6347,10 +6347,10 @@
                 ]
             },
             {
-                "name": "Falling Invincible Candy",
+                "name": "Falling Invincibility Candy",
                 "sections": [
                     {
-                        "name": "Invincible Candy",
+                        "name": "Invincibility Candy",
                         "chest_unopened_img": "/images/InvincibleCandy2.png",
                         "chest_opened_img": "/images/InvincibleCandy.png",
                         "visibility_rules": [
@@ -6915,7 +6915,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Bandana"
+                        "name": "Springtime"
                     }
                 ],
                 "map_locations": [
@@ -7961,7 +7961,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Maxim",
+                        "name": "Maxim Tomato",
                         "chest_unopened_img": "/images/Maxim2.png",
                         "chest_opened_img": "/images/Maxim.png",
                         "visibility_rules": [
@@ -8693,7 +8693,7 @@
                 "map_locations": [
                     {
                         "map": "Garden Starting Area",
-                        "x": 426,
+                        "x": 486,
                         "y": 94
                     }
                 ]
@@ -8713,7 +8713,7 @@
                 "map_locations": [
                     {
                         "map": "Garden Starting Area",
-                        "x": 486,
+                        "x": 426,
                         "y": 94
                     }
                 ]
@@ -8751,7 +8751,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Charm"
+                        "name": "Xmas Tree"
                     }
                 ],
                 "map_locations": [

@@ -208,7 +208,7 @@
                         "name": "Peanut Plains Invincibility Candy"
                     },
                     {
-                        "ref": "DynaBlade - Peanut Plains/PP Sword Trohpy/Sword",
+                        "ref": "DynaBlade - Peanut Plains/PP Sword Essence/Sword",
                         "name": "Peanut Plains Sword"
                     },
                     {
@@ -1488,7 +1488,7 @@
                         "name": "Hammer"
                     },
                     {
-                        "ref": "MWW Cavios/Stone Essence Room/Stone",
+                        "ref": "MWW Cavios/Stone Essence/Stone",
                         "name": "Stone"
                     },
                     {
@@ -1508,7 +1508,7 @@
                         "name": "Cavios Maxim Tomato (Blue)"
                     },
                     {
-                        "ref": "MWW Cavios/Stone Essence Room/Maxim Tomato",
+                        "ref": "MWW Cavios/Stone Essence/Maxim Tomato",
                         "name": "Cavios Maxim Tomato (Stone)"
                     },
                     {
@@ -1516,11 +1516,11 @@
                         "name": "Cavios 1-Up (Stake)"
                     },
                     {
-                        "ref": "MWW Cavios/Stone Essence Room/1-Up",
+                        "ref": "MWW Cavios/Stone Essence/1-Up",
                         "name": "Cavios 1-Up (Stone)"
                     },
                     {
-                        "ref": "MWW Cavios/Stone Essence Room/Invincibily Candy",
+                        "ref": "MWW Cavios/Stone Essence/Invincibily Candy",
                         "name": "Cavios Invincibility Candy"
                     },
                     {
@@ -1940,7 +1940,7 @@
                         "name": "Peanut Plains Invincibility Candy"
                     },
                     {
-                        "ref": "DynaBlade - Peanut Plains/PP Sword Trohpy/Sword",
+                        "ref": "DynaBlade - Peanut Plains/PP Sword Essence/Sword",
                         "name": "Peanut Plains Sword"
                     }
                 ],

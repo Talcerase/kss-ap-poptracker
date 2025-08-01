@@ -200,12 +200,12 @@
 		"name": "Gold",
 		"type": "consumable",
 		"img": "/images/KSS_Gold_Medal_Treasure_Sprite.png",
-		"max_quantity": 9999990,
-		"increment": 10,
-		"decrement": 10,
+		"max_quantity": 3,
+		"increment": 1,
+		"decrement": 1,
 		"initial_quantity": 0,
 		"overlay_font_size": 12,
-		"codes": "Gold,goldmedal,goldcoin,whip,crystalball,luckycat,seiryusword,screwattack,echigocandy,zebramask,starstone"
+		"codes": "Gold""
 	},
 	{
 		"name": "Floria",

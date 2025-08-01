@@ -7083,7 +7083,7 @@
     {
         "name": "TGCO Crystal Starting Area",
         "access_rules": [
-            "The Great Cave Offensive"
+            "The Great Cave Offensive, Gold:1"
         ],
         "chest_unopened_img": "/images/KSS_Closed_Chest.png",
         "chest_opened_img": "/images/KSS_Open_Chest.png",
@@ -7143,7 +7143,7 @@
     {
         "name": "TGCO Crystal Left Door Area",
         "access_rules": [
-            "The Great Cave Offensive"
+            "The Great Cave Offensive, Gold:1"
         ],
         "chest_unopened_img": "/images/KSS_Closed_Chest.png",
         "chest_opened_img": "/images/KSS_Open_Chest.png",
@@ -7298,7 +7298,7 @@
     {
         "name": "TGCO Crystal Middle Door Area",
         "access_rules": [
-            "The Great Cave Offensive"
+            "The Great Cave Offensive, Gold:1"
         ],
         "chest_unopened_img": "/images/KSS_Closed_Chest.png",
         "chest_opened_img": "/images/KSS_Open_Chest.png",
@@ -7393,7 +7393,7 @@
     {
         "name": "TGCO Crystal Right Door Area",
         "access_rules": [
-            "The Great Cave Offensive"
+            "The Great Cave Offensive, Gold:1"
         ],
         "chest_unopened_img": "/images/KSS_Closed_Chest.png",
         "chest_opened_img": "/images/KSS_Open_Chest.png",
@@ -7489,7 +7489,7 @@
     {
         "name": "TGCO Crystal Boss",
         "access_rules": [
-            "The Great Cave Offensive"
+            "The Great Cave Offensive, Gold:1"
         ],
         "chest_unopened_img": "/images/KSS_Closed_Chest.png",
         "chest_opened_img": "/images/KSS_Open_Chest.png",
@@ -7616,7 +7616,7 @@
     {
         "name": "TGCO Old Tower Area 1",
         "access_rules": [
-            "The Great Cave Offensive"
+            "The Great Cave Offensive, Gold:2"
         ],
         "chest_unopened_img": "/images/KSS_Closed_Chest.png",
         "chest_opened_img": "/images/KSS_Open_Chest.png",
@@ -7862,7 +7862,7 @@
     {
         "name": "TGCO Old Tower Area 3",
         "access_rules": [
-            "The Great Cave Offensive"
+            "The Great Cave Offensive, Gold:2"
         ],
         "chest_unopened_img": "/images/KSS_Closed_Chest.png",
         "chest_opened_img": "/images/KSS_Open_Chest.png",
@@ -7988,7 +7988,7 @@
     {
         "name": "TGCO Old Tower Area 4",
         "access_rules": [
-            "The Great Cave Offensive"
+            "The Great Cave Offensive, Gold:2"
         ],
         "chest_unopened_img": "/images/KSS_Closed_Chest.png",
         "chest_opened_img": "/images/KSS_Open_Chest.png",
@@ -8238,7 +8238,7 @@
     {
         "name": "TGCO Old Tower Area 5",
         "access_rules": [
-            "The Great Cave Offensive"
+            "The Great Cave Offensive, Gold:2"
         ],
         "chest_unopened_img": "/images/KSS_Closed_Chest.png",
         "chest_opened_img": "/images/KSS_Open_Chest.png",
@@ -8365,7 +8365,7 @@
     {
         "name": "TGCO Old Tower Area 6",
         "access_rules": [
-            "The Great Cave Offensive"
+            "The Great Cave Offensive, Gold:2"
         ],
         "chest_unopened_img": "/images/KSS_Closed_Chest.png",
         "chest_opened_img": "/images/KSS_Open_Chest.png",
@@ -8435,7 +8435,7 @@
     {
         "name": "TGCO Old Tower Area 7",
         "access_rules": [
-            "The Great Cave Offensive"
+            "The Great Cave Offensive, Gold:2"
         ],
         "chest_unopened_img": "/images/KSS_Closed_Chest.png",
         "chest_opened_img": "/images/KSS_Open_Chest.png",
@@ -8599,7 +8599,7 @@
     {
         "name": "TGCO Garden Starting Area",
         "access_rules": [
-            "The Great Cave Offensive"
+            "The Great Cave Offensive, Gold:3"
         ],
         "chest_unopened_img": "/images/KSS_Closed_Chest.png",
         "chest_opened_img": "/images/KSS_Open_Chest.png",
@@ -8729,7 +8729,7 @@
     {
         "name": "TGCO Garden Left Door Area",
         "access_rules": [
-            "The Great Cave Offensive"
+            "The Great Cave Offensive, Gold:3"
         ],
         "chest_unopened_img": "/images/KSS_Closed_Chest.png",
         "chest_opened_img": "/images/KSS_Open_Chest.png",
@@ -8850,7 +8850,7 @@
     {
         "name": "TGCO Garden Cloud Area",
         "access_rules": [
-            "The Great Cave Offensive"
+            "The Great Cave Offensive, Gold:3"
         ],
         "chest_unopened_img": "/images/KSS_Closed_Chest.png",
         "chest_opened_img": "/images/KSS_Open_Chest.png",
@@ -9270,7 +9270,7 @@
     {
         "name": "TGCO Garden Right Door Area",
         "access_rules": [
-            "The Great Cave Offensive"
+            "The Great Cave Offensive, Gold:3"
         ],
         "chest_unopened_img": "/images/KSS_Closed_Chest.png",
         "chest_opened_img": "/images/KSS_Open_Chest.png",
@@ -9444,7 +9444,7 @@
     {
         "name": "TGCO Garden Center Door Area",
         "access_rules": [
-            "The Great Cave Offensive"
+            "The Great Cave Offensive, Gold:3"
         ],
         "chest_unopened_img": "/images/KSS_Closed_Chest.png",
         "chest_opened_img": "/images/KSS_Open_Chest.png",

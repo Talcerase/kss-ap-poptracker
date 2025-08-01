@@ -184,24 +184,24 @@
                         "name": "Peanut Plains Goal"
                     },
                     {
-                        "ref": "DynaBlade - Peanut Plains/PP 1-Up 1/1-Up",
-                        "name": "Peanut Plains 1-up 1"
+                        "ref": "DynaBlade - Peanut Plains/PP 1-Up (Bomb Block)/1-Up",
+                        "name": "Peanut Plains 1-up (Bomb Block)"
                     },
                     {
-                        "ref": "DynaBlade - Peanut Plains/PP 1-Up 2/1-Up",
-                        "name": "Peanut Plains 1-up 2"
+                        "ref": "DynaBlade - Peanut Plains/PP 1-Up (In the Sky)/1-Up",
+                        "name": "Peanut Plains 1-up (In the Sky)"
                     },
                     {
-                        "ref": "DynaBlade - Peanut Plains/PP Maxim Tomato 1/Maxim Tomato",
-                        "name": "Peanut Plains Maxim Tomato 1"
+                        "ref": "DynaBlade - Peanut Plains/PP Maxim Tomato (Sword Essence)/Maxim Tomato",
+                        "name": "Peanut Plains Maxim Tomato (Sword Essence)"
                     },
                     {
-                        "ref": "DynaBlade - Peanut Plains/PP Maxim Tomato 2/Maxim Tomato",
-                        "name": "Peanut Plains Maxim Tomato 2"
+                        "ref": "DynaBlade - Peanut Plains/PP Maxim Tomato (In the Sky)/Maxim Tomato",
+                        "name": "Peanut Plains Maxim Tomato (In the Sky)"
                     },
                     {
-                        "ref": "DynaBlade - Peanut Plains/PP Maxim Tomato 3/Maxim Tomato",
-                        "name": "Peanut Plains Maxim Tomato 3"
+                        "ref": "DynaBlade - Peanut Plains/PP Maxim Tomato (Mini-Boss)/Maxim Tomato",
+                        "name": "Peanut Plains Maxim Tomato (Mini-Boss)"
                     },
                     {
                         "ref": "DynaBlade - Peanut Plains/PP Invincibility Candy/Invincibility Candy",
@@ -224,28 +224,28 @@
                         "name": "Mallow Castle Maxim Tomato"
                     },
                     {
-                        "ref": "DynaBlade - Mallow Castle/MC Wheel Trophy/Wheel",
+                        "ref": "DynaBlade - Mallow Castle/MC Wheel Essence/Wheel",
                         "name": "Mallow Castle Wheel"
                     },
                     {
                         "ref": "DynaBlade - Mallow Castle/MC Inside Castle 1-Up/1-Up",
-                        "name": "Mallow Castle 1-Up 1"
+                        "name": "Mallow Castle 1-Up (Inside Castle)"
                     },
                     {
                         "ref": "DynaBlade - Mallow Castle/MC Outside Castle 1-Up/1-Up",
-                        "name": "Mallow Castle 1-Up 2"
+                        "name": "Mallow Castle 1-Up (Outside Castle)"
                     },
                     {
                         "ref": "DynaBlade - Mallow Castle/MC Destroyed Castle 1/1-Up (Left)",
-                        "name": "Mallow Castle 1-Up 3"
+                        "name": "Mallow Castle 1-Up (Demolished Left)"
                     },
                     {
                         "ref": "DynaBlade - Mallow Castle/MC Destroyed Castle 2/1-Up (Middle)",
-                        "name": "Mallow Castle 1-Up 4"
+                        "name": "Mallow Castle 1-Up (Demolished Middle)"
                     },
                     {
                         "ref": "DynaBlade - Mallow Castle/MC Destroyed Castle 3/1-Up (Right)",
-                        "name": "Mallow Castle 1-Up 5"
+                        "name": "Mallow Castle 1-Up (Demolished Right)"
                     },
                     {
                         "ref": "DynaBlade Overworld/Vs Iron Mam/Defeated",
@@ -260,12 +260,12 @@
                         "name": "Cocoa Cave Maxim Tomato"
                     },
                     {
-                        "ref": "DynaBlade - Cocoa Cave/CC 1-Up 1/1-Up (Starblock)",
-                        "name": "Cocoa Cave 1-Up 1"
+                        "ref": "DynaBlade - Cocoa Cave/CC 1-Up (Starblock)/1-Up",
+                        "name": "Cocoa Cave 1-Up (Starblock)"
                     },
                     {
-                        "ref": "DynaBlade - Cocoa Cave/CC 1-Up 2/1-Up 2",
-                        "name": "Cocoa Cave 1-Up 2"
+                        "ref": "DynaBlade - Cocoa Cave/CC 1-Up (Fire Cave)/1-Up",
+                        "name": "Cocoa Cave 1-Up (Fire Cave)"
                     },
                     {
                         "ref": "DynaBlade - Candy Mountain/Candy Mountain Goal/Goal",
@@ -289,39 +289,39 @@
                     },
                     {
                         "ref": "DynaBlade - Candy Mountain/CM Maxim Tomato 1/Maxim Tomato (Cannon Left)",
-                        "name": "Candy Mountain Maxim Tomato 1"
+                        "name": "Candy Mountain Maxim Tomato (Cannon Left)"
                     },
                     {
                         "ref": "DynaBlade - Candy Mountain/CM Maxim Tomato 2/Maxim Tomato (Cannon Right)",
-                        "name": "Candy Mountain Maxim Tomato 2"
+                        "name": "Candy Mountain Maxim Tomato (Cannon Right)"
                     },
                     {
-                        "ref": "DynaBlade - Candy Mountain/CM Maxim Tomato 3/Maxim Tomato (Boss)",
-                        "name": "Candy Mountain Maxim Tomato 3"
+                        "ref": "DynaBlade - Candy Mountain/CM Maxim Tomato (Boss)/Maxim Tomato",
+                        "name": "Candy Mountain Maxim Tomato (Boss)"
                     },
                     {
-                        "ref": "DynaBlade - Candy Mountain/CM 1-Up 1/1-Up",
-                        "name": "Candy Mountain 1-Up 1"
+                        "ref": "DynaBlade - Candy Mountain/CM 1-Up (Upper)/1-Up",
+                        "name": "Candy Mountain 1-Up (Upper)"
                     },
                     {
                         "ref": "DynaBlade - Candy Mountain/CM 1-Up Trio 1/Left 1-Up",
-                        "name": "Candy Mountain 1-Up 2"
+                        "name": "Candy Mountain 1-Up (Fire 1, Left)"
                     },
                     {
                         "ref": "DynaBlade - Candy Mountain/CM 1-Up Trio 2/Top 1-Up",
-                        "name": "Candy Mountain 1-Up 3"
+                        "name": "Candy Mountain 1-Up (Fire 2, Top)"
                     },
                     {
                         "ref": "DynaBlade - Candy Mountain/CM 1-Up Trio 3/Right 1-Up",
-                        "name": "Candy Mountain 1-Up 4"
+                        "name": "Candy Mountain 1-Up (Fire 3, Right)"
                     },
                     {
-                        "ref": "DynaBlade - Candy Mountain/CM 1-Up 5/1-Up",
-                        "name": "Candy Mountain 1-Up 5"
+                        "ref": "DynaBlade - Candy Mountain/CM 1-Up (Cannon)/1-Up",
+                        "name": "Candy Mountain 1-Up (Cannon)"
                     },
                     {
-                        "ref": "DynaBlade - Candy Mountain/CM 1-Up 6/1-Up",
-                        "name": "Candy Mountain 1-Up 6"
+                        "ref": "DynaBlade - Candy Mountain/CM 1-Up (Stonewall)/1-Up",
+                        "name": "Candy Mountain 1-Up (Stonewall)"
                     },
                     {
                         "ref": "DynaBlade Overworld/DynaBlade - Nest/DynaBlade Fight",
@@ -345,11 +345,11 @@
                     },
                     {
                         "ref": "DynaBlade Overworld/DynaBlade - Bonus 1/Left Maxim",
-                        "name": "Bonus 1 Left Maxim"
+                        "name": "Bonus 1 Maxim (Left)"
                     },
                     {
                         "ref": "DynaBlade Overworld/DynaBlade - Bonus 1/Right Maxim",
-                        "name": "Bonus 1 Right Maxim"
+                        "name": "Bonus 1 Maxim (Right)"
                     },
                     {
                         "ref": "DynaBlade Overworld/DynaBlade - Bonus 1/Beam",
@@ -456,76 +456,76 @@
                         "name": "Chapter 2 Clear"
                     },
                     {
-                        "ref": "Revenge of Meta Knight - Chapter 2/CH2 Underwater Maxim Tomato/Maxim Tomato",
-                        "name": "Ch2 Underwater Maxim"
+                        "ref": "Revenge of Meta Knight - Chapter 2/CH2 Maxim Tomato (Underwater)/Maxim Tomato",
+                        "name": "CH2 Maxim (Underwater)"
                     },
                     {
-                        "ref": "Revenge of Meta Knight - Chapter 2/CH2 Boss Maxim Tomato/Maxim Tomato",
-                        "name": "Ch2 Boss Maxim"
+                        "ref": "Revenge of Meta Knight - Chapter 2/CH2 Maxim Tomato (Boss)/Maxim Tomato",
+                        "name": "CH2 Maxim (Boss)"
                     },
                     {
                         "ref": "Revenge of Meta Knight - Chapter 2/CH2 Parasol Essence/Parasol",
-                        "name": "Ch2 Parasol"
+                        "name": "CH2 Parasol"
                     },
                     {
                         "ref": "Revenge of Meta Knight - Chapter 2/CH2 Bomb Essence/Bomb",
-                        "name": "Ch2 Bomb"
+                        "name": "CH2 Bomb"
                     },
                     {
                         "ref": "Revenge of Meta Knight - Chapter 2/CH2 Wing Essence/Wing",
-                        "name": "Ch2 Wing"
+                        "name": "CH2 Wing"
                     },
                     {
                         "ref": "Revenge of Meta Knight - Chapter 3/RoMK Chapter 3 Clear/Chapter 3 Clear",
                         "name": "Chapter 3 Clear"
                     },
                     {
-                        "ref": "Revenge of Meta Knight - Chapter 3/CH3 Hidden Room 1-Up/1-Up",
-                        "name": "Ch3 Hidden Room 1-Up "
+                        "ref": "Revenge of Meta Knight - Chapter 3/CH3 1-Up (Hidden Room)/1-Up",
+                        "name": "CH3 1-Up (Hidden Room) "
                     },
                     {
-                        "ref": "Revenge of Meta Knight - Chapter 3/CH3 Stake 1-Up/1-Up",
-                        "name": "Ch3 1-Up (Stake)"
+                        "ref": "Revenge of Meta Knight - Chapter 3/CH3 1-Up (Stake)/1-Up",
+                        "name": "CH3 1-Up (Stake)"
                     },
                     {
-                        "ref": "Revenge of Meta Knight - Chapter 3/CH3 Maxim Tomato/Maxim",
-                        "name": "Ch3 Maxim Tomato (Stake)"
+                        "ref": "Revenge of Meta Knight - Chapter 3/CH3 Maxim Tomato (Stake)/Maxim",
+                        "name": "CH3 Maxim Tomato (Stake)"
                     },
                     {
                         "ref": "Revenge of Meta Knight - Chapter 3/CH3 Hidden Room Essence 1/Cutter",
-                        "name": "Ch3 Hidden Room Cutter"
+                        "name": "CH3 Hidden Room Cutter"
                     },
                     {
                         "ref": "Revenge of Meta Knight - Chapter 3/CH3 Hidden Room Essence 2/Sword",
-                        "name": "Ch3 Hidden Room Sword"
+                        "name": "CH3 Hidden Room Sword"
                     },
                     {
                         "ref": "Revenge of Meta Knight - Chapter 3/CH3 Hidden Room Essence 3/Fighter",
-                        "name": "Ch3 Hidden Room Fighter"
+                        "name": "CH3 Hidden Room Fighter"
                     },
                     {
                         "ref": "Revenge of Meta Knight - Chapter 3/CH3 Mini-Boss Essence 1/Cutter",
-                        "name": "Ch3 Mini-Boss Cutter"
+                        "name": "CH3 Mini-Boss Cutter"
                     },
                     {
                         "ref": "Revenge of Meta Knight - Chapter 3/CH3 Mini-Boss Essence 2/Ice",
-                        "name": "Ch3 Mini-Boss Ice"
+                        "name": "CH3 Mini-Boss Ice"
                     },
                     {
                         "ref": "Revenge of Meta Knight - Chapter 3/CH3 Stake Essence 1/Mirror",
-                        "name": "Ch3 Mirror"
+                        "name": "CH3 Mirror"
                     },
                     {
                         "ref": "Revenge of Meta Knight - Chapter 3/CH3 Stake Essence 2/Parasol",
-                        "name": "Ch3 Parasol"
+                        "name": "CH3 Parasol"
                     },
                     {
                         "ref": "Revenge of Meta Knight - Chapter 3/CH3 Stake Essence 3/Ninja",
-                        "name": "Ch3 Ninja"
+                        "name": "CH3 Ninja"
                     },
                     {
                         "ref": "Revenge of Meta Knight - Chapter 3/CH3 Wheel Essence/Wheel",
-                        "name": "Ch3 Wheel"
+                        "name": "CH3 Wheel"
                     },
                     {
                         "ref": "Revenge of Meta Knight - Chapter 4/RoMK Chapter 4 Clear/Chapter 4 Clear",
@@ -533,83 +533,83 @@
                     },
                     {
                         "ref": "Revenge of Meta Knight - Chapter 4/CH4 Invincibility Candy/Invincibility Candy",
-                        "name": "Ch4 Invincibility Candy"
+                        "name": "CH4 Invincibility Candy"
                     },
                     {
-                        "ref": "Revenge of Meta Knight - Chapter 4/CH4 Fire Room Maxim/Maxim Tomato",
-                        "name": "Ch4 Maxim Tomato (Fire Room)"
+                        "ref": "Revenge of Meta Knight - Chapter 4/CH4 Maxim Tomato (Hidden)/Maxim Tomato",
+                        "name": "CH4 Maxim Tomato (Hidden)"
                     },
                     {
-                        "ref": "Revenge of Meta Knight - Chapter 4/CH4 Boss Maxim Tomato/Maxim Tomato",
-                        "name": "Ch4 Maxim Tomato (Boss)"
+                        "ref": "Revenge of Meta Knight - Chapter 4/CH4 Maxim Tomato (Boss)/Maxim Tomato",
+                        "name": "CH4 Maxim Tomato (Boss)"
                     },
                     {
                         "ref": "Revenge of Meta Knight - Chapter 4/CH4 Star Block Essence/Sword",
-                        "name": "Ch4 Sword"
+                        "name": "CH4 Sword"
                     },
                     {
                         "ref": "Revenge of Meta Knight - Chapter 4/CH4 Boss Essence 1/Fire",
-                        "name": "Ch4 Fire"
+                        "name": "CH4 Fire"
                     },
                     {
                         "ref": "Revenge of Meta Knight - Chapter 4/CH4 Boss Essence 2/Yo-Yo",
-                        "name": "Ch4 Yo-Yo"
+                        "name": "CH4 Yo-Yo"
                     },
                     {
                         "ref": "Revenge of Meta Knight - Chapter 4/CH4 Boss Essence 3/Beam",
-                        "name": "Ch4 Beam"
+                        "name": "CH4 Beam"
                     },
                     {
                         "ref": "Revenge of Meta Knight - Chapter 5/RoMK Chapter 5 Clear/Chapter 5 Clear",
                         "name": "Chapter 5 Clear"
                     },
                     {
-                        "ref": "Revenge of Meta Knight - Chapter 5/CH5 Mini-Boss Maxim Tomato/Maxim Tomato",
-                        "name": "Ch5 Mini-Boss Maxim Tomato"
+                        "ref": "Revenge of Meta Knight - Chapter 5/CH5 Maxim Tomato (Frosty)/Maxim Tomato",
+                        "name": "CH5 Maxim Tomato (Mini-Boss)"
                     },
                     {
-                        "ref": "Revenge of Meta Knight - Chapter 5/CH5 Hidden Room Maxim Tomato/Maxim Tomato",
-                        "name": "Ch5 Hidden Room Maxim Tomato"
+                        "ref": "Revenge of Meta Knight - Chapter 5/CH5 Maxim Tomato (Armory)/Maxim Tomato",
+                        "name": "CH5 Maxim Tomato (Armory)"
                     },
                     {
-                        "ref": "Revenge of Meta Knight - Chapter 5/CH5 Boss Maxim Tomato/Maxim Tomato",
-                        "name": "Ch5 Boss Maxim Tomato"
+                        "ref": "Revenge of Meta Knight - Chapter 5/CH5 Maxim Tomato (Boss)/Maxim Tomato",
+                        "name": "CH5 Maxim Tomato (Boss)"
                     },
                     {
-                        "ref": "Revenge of Meta Knight - Chapter 5/CH5 Hidden Room Essence 1/Ice",
-                        "name": "Ch5 Ice"
+                        "ref": "Revenge of Meta Knight - Chapter 5/CH5 Armory Essence 1/Ice",
+                        "name": "CH5 Ice"
                     },
                     {
-                        "ref": "Revenge of Meta Knight - Chapter 5/CH5 Hidden Room Essence 2/Parasol",
-                        "name": "Ch5 Parasol"
+                        "ref": "Revenge of Meta Knight - Chapter 5/CH5 Armory Essence 2/Parasol",
+                        "name": "CH5 Parasol"
                     },
                     {
-                        "ref": "Revenge of Meta Knight - Chapter 5/CH5 Hidden Room Essence 3/Beam",
-                        "name": "Ch5 Beam"
+                        "ref": "Revenge of Meta Knight - Chapter 5/CH5 Armory Essence 3/Beam",
+                        "name": "CH5 Beam"
                     },
                     {
-                        "ref": "Revenge of Meta Knight - Chapter 5/CH5 Hidden Room Essence 4/Hammer",
-                        "name": "Ch5 Hammer"
+                        "ref": "Revenge of Meta Knight - Chapter 5/CH5 Armory Essence 4/Hammer",
+                        "name": "CH5 Hammer"
                     },
                     {
-                        "ref": "Revenge of Meta Knight - Chapter 5/CH5 Hidden Room Essence 5/Plasma",
-                        "name": "Ch5 Plasma"
+                        "ref": "Revenge of Meta Knight - Chapter 5/CH5 Armory Essence 5/Plasma",
+                        "name": "CH5 Plasma"
                     },
                     {
-                        "ref": "Revenge of Meta Knight - Chapter 5/CH5 Hidden Room Essence 6/Cutter",
-                        "name": "Ch5 Cutter"
+                        "ref": "Revenge of Meta Knight - Chapter 5/CH5 Armory Essence 6/Cutter",
+                        "name": "CH5 Cutter"
                     },
                     {
-                        "ref": "Revenge of Meta Knight - Chapter 5/CH5 Hidden Room Essence 7/Mirror",
-                        "name": "Ch5 Mirror"
+                        "ref": "Revenge of Meta Knight - Chapter 5/CH5 Armory Essence 7/Mirror",
+                        "name": "CH5 Mirror"
                     },
                     {
                         "ref": "Revenge of Meta Knight - Chapter 5/CH5 Boss Essence 1/Sword",
-                        "name": "Ch5 Sword"
+                        "name": "CH5 Sword"
                     },
                     {
                         "ref": "Revenge of Meta Knight - Chapter 5/CH5 Boss Essence 2/Wing",
-                        "name": "Ch5 Wing"
+                        "name": "CH5 Wing"
                     },
                     {
                         "ref": "Revenge of Meta Knight - Chapter 6/RoMK Chapter 6 Clear/Chapter 6 Clear",
@@ -617,75 +617,75 @@
                     },
                     {
                         "ref": "Revenge of Meta Knight - Chapter 6/CH6 Invincibility Candy/Invincibility Candy",
-                        "name": "Ch6 Invincibility Candy"
+                        "name": "CH6 Invincibility Candy"
                     },
                     {
-                        "ref": "Revenge of Meta Knight - Chapter 6/CH6 Yo-Yo 1-Up/1-Up",
-                        "name": "Ch6 1-Up by Yo-Yo"
+                        "ref": "Revenge of Meta Knight - Chapter 6/CH6 1-Up (Yo-Yo)/1-Up",
+                        "name": "CH6 1-Up (Yo-Yo)"
                     },
                     {
-                        "ref": "Revenge of Meta Knight - Chapter 6/CH6 Blocked Room 1-Up/1-Up",
-                        "name": "Ch6 Blocked Room 1-Up"
+                        "ref": "Revenge of Meta Knight - Chapter 6/CH6 1-Up (Stash)/1-Up",
+                        "name": "CH6 1-Up (Stash)"
                     },
                     {
-                        "ref": "Revenge of Meta Knight - Chapter 6/CH6 Cloud Room Maxim Tomato/Maxim Tomato",
-                        "name": "Ch6 Clouds Maxim Tomato"
+                        "ref": "Revenge of Meta Knight - Chapter 6/CH6 Maxim Tomato (Secret)/Maxim Tomato",
+                        "name": "CH6 Maxim Tomato (Clouds)"
                     },
                     {
-                        "ref": "Revenge of Meta Knight - Chapter 6/CH6 Blocked Room Maxim Tomato/Maxim Tomato",
-                        "name": "Ch6 Blocked Room Maxim Tomato"
+                        "ref": "Revenge of Meta Knight - Chapter 6/CH6 Maxim Tomato (Stash)/Maxim Tomato",
+                        "name": "CH6 Maxim Tomato (Stash)"
                     },
                     {
-                        "ref": "Revenge of Meta Knight - Chapter 6/CH6 Boss Maxim Tomato/Maxim Tomato",
-                        "name": "Ch6 Boss Maxim Tomato"
+                        "ref": "Revenge of Meta Knight - Chapter 6/CH6 Maxim Tomato (Boss)/Maxim Tomato",
+                        "name": "CH6 Maxim Tomato (Boss)"
                     },
                     {
                         "ref": "Revenge of Meta Knight - Chapter 6/CH6 Cloud Room Essence 1/Parasol",
-                        "name": "Ch6 Parasol"
+                        "name": "CH6 Parasol"
                     },
                     {
                         "ref": "Revenge of Meta Knight - Chapter 6/CH6 Cloud Room Essence 2/Jet",
-                        "name": "Ch6 Jet"
+                        "name": "CH6 Jet"
                     },
                     {
                         "ref": "Revenge of Meta Knight - Chapter 6/CH6 Cloud Room Essence 3/Wing",
-                        "name": "Ch6 Wing (Clouds)"
+                        "name": "CH6 Wing (Clouds)"
                     },
                     {
                         "ref": "Revenge of Meta Knight - Chapter 6/CH6 Switch Maze Top Essence/Wing",
-                        "name": "Ch6 Wing (Switch Maze)"
+                        "name": "CH6 Wing (Switch Maze)"
                     },
                     {
                         "ref": "Revenge of Meta Knight - Chapter 6/CH6 Switch Maze Bottom Essence/Suplex",
-                        "name": "Ch6 Suplex"
+                        "name": "CH6 Suplex"
                     },
                     {
                         "ref": "Revenge of Meta Knight - Chapter 6/CH6 Elevator Essence/Yo-Yo",
-                        "name": "Ch6 Yo-Yo"
+                        "name": "CH6 Yo-Yo"
                     },
                     {
                         "ref": "Revenge of Meta Knight - Chapter 6/CH6 Boss Essence/Bomb",
-                        "name": "Ch6 Bomb"
+                        "name": "CH6 Bomb"
                     },
                     {
                         "ref": "Revenge of Meta Knight - Chapter 7/RoMK Chapter 7 Clear/Chapter 7 Clear",
                         "name": "Chapter 7 Clear"
                     },
                     {
-                        "ref": "Revenge of Meta Knight - Chapter 7/CH7 Side-Scrolling Maxim Tomato/Maxim Tomato",
-                        "name": "Ch7 First Room Maxim Tomato"
+                        "ref": "Revenge of Meta Knight - Chapter 7/CH7 Maxim Tomato (Auto)/Maxim Tomato",
+                        "name": "CH7 Maxim Tomato (Auto)"
                     },
                     {
-                        "ref": "Revenge of Meta Knight - Chapter 7/CH7 Elevator Left Maxim Tomato/Maxim Tomato",
-                        "name": "Ch7 Elevator Maxim Tomato (Left)"
+                        "ref": "Revenge of Meta Knight - Chapter 7/CH7 Maxim Tomato (Elevator Left)/Maxim Tomato",
+                        "name": "CH7 Elevator Maxim Tomato (Left)"
                     },
                     {
-                        "ref": "Revenge of Meta Knight - Chapter 7/CH7 Elevator Right Maxim Tomato/Maxim Tomato",
-                        "name": "Ch7 Elevator Maxim Tomato (Right)"
+                        "ref": "Revenge of Meta Knight - Chapter 7/CH7 Maxim Tomato (Elevator Right)/Maxim Tomato",
+                        "name": "CH7 Elevator Maxim Tomato (Right)"
                     },
                     {
-                        "ref": "Revenge of Meta Knight - Chapter 7/CH7 Boss Maxim Tomato/Maxim Tomato",
-                        "name": "Ch7 Boss Maxim Tomato"
+                        "ref": "Revenge of Meta Knight - Chapter 7/CH7 Maxim Tomato (Boss)/Maxim Tomato",
+                        "name": "CH7 Maxim Tomato (Boss)"
                     },
                     {
                         "ref": "Revenge of Meta Knight - Chapter 7/CH7 Starting Essence 1/Cutter",
@@ -772,12 +772,12 @@
                         "name": "Zebra Mask"
                     },
                     {
-                        "ref": "TGCO Sub-Tree Area 3/Maxim Tomato/Maxim Tomato",
-                        "name": "Maxim Tomato by Zebra Mask"
+                        "ref": "TGCO Sub-Tree Area 3/Maxim Tomato (Zebra Mask)/Maxim Tomato",
+                        "name": "Maxim Tomato (Zebra Mask)"
                     },
                     {
-                        "ref": "TGCO Sub-Tree Area 3/Underwater 1-Up/1-Up",
-                        "name": "Underwater 1-Up"
+                        "ref": "TGCO Sub-Tree Area 3/1-Up (Underwater)/1-Up",
+                        "name": "1-Up (Underwater)"
                     },
                     {
                         "ref": "TGCO Sub-Tree Area 4/Treasure 10/Star Stone",
@@ -797,7 +797,7 @@
                     },
                     {
                         "ref": "TGCO Sub-Tree Area 5/Springtime 1-Up/1-Up",
-                        "name": "Springtime 1-Up"
+                        "name": "1-Up (Springtime)"
                     },
                     {
                         "ref": "TGCO Sub-Tree Boss/Left Essence/Jet",
@@ -812,8 +812,8 @@
                         "name": "Sub-Tree Sword"
                     },
                     {
-                        "ref": "TGCO Sub-Tree Boss/Essence Maxim Tomato/Maxim Tomato",
-                        "name": "Maxim Tomato (Pre-Boss)"
+                        "ref": "TGCO Sub-Tree Boss/Maxim Tomato (Essence)/Maxim Tomato",
+                        "name": "Maxim Tomato (Essence)"
                     },
                     {
                         "ref": "TGCO Sub-Tree Boss/Boss/Fatty Whale",
@@ -821,7 +821,7 @@
                     },
                     {
                         "ref": "TGCO Sub-Tree Boss/Minecart/Maxim Tomato",
-                        "name": "Minecart Maxim Tomato"
+                        "name": "Maxim Tomato (Minecart)"
                     }
                 ],
                 "map_locations": [
@@ -844,8 +844,8 @@
                         "name": "Glass Slippers"
                     },
                     {
-                        "ref": "TGCO Crystal Starting Area/Underwater 1-Up/1-Up",
-                        "name": "Crystal 1-Up"
+                        "ref": "TGCO Crystal Starting Area/1-Up (Underwater)/1-Up",
+                        "name": "1-Up (Underwater)"
                     },
                     {
                         "ref": "TGCO Crystal Left Door Area/Treasure 16/Goblet",
@@ -888,11 +888,11 @@
                         "name": "100 Dollar Coin"
                     },
                     {
-                        "ref": "TGCO Crystal Middle Door Area/Bomb Block Maxim Tomato/Maxim Tomato",
+                        "ref": "TGCO Crystal Middle Door Area/Maxim Tomato (Bomb Block)/Maxim Tomato",
                         "name": "Maxim Tomato (Bomb Block)"
                     },
                     {
-                        "ref": "TGCO Crystal Middle Door Area/Spike Area Maxim Tomato/Maxim Tomato",
+                        "ref": "TGCO Crystal Middle Door Area/Maxim Tomato (Spikes)/Maxim Tomato",
                         "name": "Maxim Tomato (Spikes)"
                     },
                     {
@@ -912,8 +912,8 @@
                         "name": "Truth Mirror"
                     },
                     {
-                        "ref": "TGCO Crystal Right Door Area/Before Truth Mirror Maxim Tomato/Maxim Tomato",
-                        "name": "Maxim Tomato Before Truth Mirror"
+                        "ref": "TGCO Crystal Right Door Area/Maxim Tomato (Before Truth Mirror)/Maxim Tomato",
+                        "name": "Maxim Tomato (Before Truth Mirror)"
                     },
                     {
                         "ref": "TGCO Crystal Boss/Left Essence/Fighter",
@@ -928,8 +928,8 @@
                         "name": "Crsytal Jet"
                     },
                     {
-                        "ref": "TGCO Crystal Boss/Essence Maxim Tomato/Maxim Tomato",
-                        "name": "Maxim Tomato (Pre-Boss)"
+                        "ref": "TGCO Crystal Boss/Maxim Tomato (Essence)/Maxim Tomato",
+                        "name": "Maxim Tomato (Essence)"
                     },
                     {
                         "ref": "TGCO Crystal Boss/Boss/Computer Virus",
@@ -937,7 +937,7 @@
                     },
                     {
                         "ref": "TGCO Crystal Boss/Minecart/Maxim Tomato",
-                        "name": "Minecart Maxim Tomato"
+                        "name": "Maxim Tomato (Minecart)"
                     }
                 ],
                 "map_locations": [
@@ -956,11 +956,11 @@
                         "name": "Star Tiara"
                     },
                     {
-                        "ref": "TGCO Old Tower Area 1/Bottom Room Maxim Tomato/Maxim Tomato",
+                        "ref": "TGCO Old Tower Area 1/Maxim Tomato (Bottom Entrance)/Maxim Tomato",
                         "name": "Maxim Tomato (Bottom Room)"
                     },
                     {
-                        "ref": "TGCO Old Tower Area 1/Bottom Room 1-Up/1-Up",
+                        "ref": "TGCO Old Tower Area 1/1-Up (Bottom Entrance)/1-Up",
                         "name": "1-Up (Bottom Room)"
                     },
                     {
@@ -984,11 +984,11 @@
                         "name": "Maxim Tomato (Mini-Boss)"
                     },
                     {
-                        "ref": "TGCO Old Tower Area 2/Falchion Treasure Maxim Tomato/Maxim Tomato",
+                        "ref": "TGCO Old Tower Area 2/Maxim Tomato (Falchion Treasure)/Maxim Tomato",
                         "name": "Maxim Tomato (Falchion Treasure)"
                     },
                     {
-                        "ref": "TGCO Old Tower Area 2/Falchion Treasure 1-Up/1-Up",
+                        "ref": "TGCO Old Tower Area 2/1-Up (Falchion Treasure)/1-Up",
                         "name": "1-Up (Falchion Treasure)"
                     },
                     {
@@ -1008,7 +1008,7 @@
                         "name": "Tut's Mask"
                     },
                     {
-                        "ref": "TGCO Old Tower Area 3/Tut's Mask Maxim Tomato/Maxim Tomato",
+                        "ref": "TGCO Old Tower Area 3/Maxim Tomato (Tut's Mask)/Maxim Tomato",
                         "name": "Maxim Tomato (Tut's Mask)"
                     },
                     {
@@ -1028,40 +1028,40 @@
                         "name": "Mannequin"
                     },
                     {
-                        "ref": "TGCO Old Tower Area 4/Sleep Room Essence 1/Left Sleep",
-                        "name": "Old Tower Sleep (Left)"
+                        "ref": "TGCO Old Tower Area 4/Sleep Room Essence 1/First Bottom",
+                        "name": "Old Tower Sleep 1 (First Bottom)"
                     },
                     {
-                        "ref": "TGCO Old Tower Area 4/Sleep Room Essence 2/Top Sleep",
-                        "name": "Old Tower Sleep (Top)"
+                        "ref": "TGCO Old Tower Area 4/Sleep Room Essence 2/Far Left",
+                        "name": "Old Tower Sleep 2 (Far Left)"
                     },
                     {
-                        "ref": "TGCO Old Tower Area 4/Sleep Room Essence 3/Bottom Sleep",
-                        "name": "Old Tower Sleep (Bottom)"
+                        "ref": "TGCO Old Tower Area 4/Sleep Room Essence 3/Middle Top",
+                        "name": "Old Tower Sleep 3 (Middle Top)"
                     },
                     {
-                        "ref": "TGCO Old Tower Area 4/Sleep Room Essence 4/Right Sleep",
-                        "name": "Old Tower Sleep (Right)"
+                        "ref": "TGCO Old Tower Area 4/Sleep Room Essence 4/Second Middle",
+                        "name": "Old Tower Sleep 4 (Second Middle)"
                     },
                     {
-                        "ref": "TGCO Old Tower Area 4/Sleep Room Essence 5/Top Sleep 2",
-                        "name": "Old Tower Sleep (Second Top)"
+                        "ref": "TGCO Old Tower Area 4/Sleep Room Essence 5/First Top",
+                        "name": "Old Tower Sleep 5 (First Top)"
                     },
                     {
-                        "ref": "TGCO Old Tower Area 4/Sleep Room Essence 6/Bottom Sleep 2",
-                        "name": "Old Tower Sleep (Second Bottom)"
+                        "ref": "TGCO Old Tower Area 4/Sleep Room Essence 6/Second Bottom",
+                        "name": "Old Tower Sleep 6 (Second Bottom)"
                     },
                     {
-                        "ref": "TGCO Old Tower Area 4/Sleep Room Essence 7/Top Sleep 3",
-                        "name": "Old Tower Sleep (Top by Chest)"
+                        "ref": "TGCO Old Tower Area 4/Sleep Room Essence 7/Far Top",
+                        "name": "Old Tower Sleep 7 (Far Top)"
                     },
                     {
-                        "ref": "TGCO Old Tower Area 4/Sleep Room Essence 8/Bottom Sleep 3",
-                        "name": "Old Tower Sleep (Bottom by Chest)"
+                        "ref": "TGCO Old Tower Area 4/Sleep Room Essence 8/Far Bottom",
+                        "name": "Old Tower Sleep 8 (Far Bottom)"
                     },
                     {
-                        "ref": "TGCO Old Tower Area 4/Space Room Maxim Tomato/Maxim Tomato",
-                        "name": "Old Tower Maxim Tomato (Space Room)"
+                        "ref": "TGCO Old Tower Area 4/Maxim Tomato (Star Spring)/Maxim Tomato",
+                        "name": "Maxim Tomato (Space Room)"
                     },
                     {
                         "ref": "TGCO Old Tower Area 5/Left Essence/Ninja",
@@ -1076,8 +1076,8 @@
                         "name": "Old Tower Plasma"
                     },
                     {
-                        "ref": "TGCO Old Tower Area 5/Essence Maxim Tomato/Maxim Tomato",
-                        "name": "Maxim Tomato (Pre-Boss)"
+                        "ref": "TGCO Old Tower Area 5/Maxim Tomato (Essence)/Maxim Tomato",
+                        "name": "Maxim Tomato (Essence)"
                     },
                     {
                         "ref": "TGCO Old Tower Area 5/Boss/Chameleo Arm",
@@ -1108,19 +1108,19 @@
                         "name": "Sun Ring"
                     },
                     {
-                        "ref": "TGCO Old Tower Area 7/Left Spire Maxim/Maxim Tomato",
+                        "ref": "TGCO Old Tower Area 7/Maxim Tomato (Left Spire)/Maxim Tomato",
                         "name": "Maxim Tomato (Left Spire)"
                     },
                     {
-                        "ref": "TGCO Old Tower Area 7/Outside Left Spire Maxim/Maxim Tomato",
+                        "ref": "TGCO Old Tower Area 7/Maxim Tomato (Outside Left Spire)/Maxim Tomato",
                         "name": "Maxim Tomato (Outside Left Spire)"
                     },
                     {
-                        "ref": "TGCO Old Tower Area 7/Right Spire Maxim/Maxim Tomato",
+                        "ref": "TGCO Old Tower Area 7/Maxim Tomato (Right Spire)/Maxim Tomato",
                         "name": "Maxim Tomato (Right Spire)"
                     },
                     {
-                        "ref": "TGCO Old Tower Area 7/Outside Right Spire Maxim/Maxim Tomato",
+                        "ref": "TGCO Old Tower Area 7/Maxim Tomato (Outside Right Spire)/Maxim Tomato",
                         "name": "Maxim Tomato (Outside Right Spire)"
                     }
                 ],
@@ -1145,7 +1145,7 @@
                     },
                     {
                         "ref": "TGCO Garden Starting Area/Maxim Tomato in the Wind/Maxim Tomato",
-                        "name": "Maxim Tomato (Wind)"
+                        "name": "Maxim Tomato in the Wind"
                     },
                     {
                         "ref": "TGCO Garden Starting Area/Left Essence/Jet",
@@ -1208,28 +1208,28 @@
                         "name": "Garden Wheel"
                     },
                     {
-                        "ref": "TGCO Garden Cloud Area/Hidden Room Left 1-Up/1-Up",
-                        "name": "Hidden Room Left 1-Up"
+                        "ref": "TGCO Garden Cloud Area/1-Up (Hidden Left)/1-Up",
+                        "name": "1-Up (Hidden Left)"
                     },
                     {
-                        "ref": "TGCO Garden Cloud Area/Hidden Room Right 1-Up/1-Up",
-                        "name": "Hidden Room Right 1-Up"
+                        "ref": "TGCO Garden Cloud Area/1-Up (Hidden Right)/1-Up",
+                        "name": "1-Up (Hidden Right)"
                     },
                     {
                         "ref": "TGCO Garden Cloud Area/Hidden Room Maxim Tomato/Maxim Tomato",
-                        "name": "Hidden Room Maxim Tomato"
+                        "name": "Maxim Tomato (Hidden)"
                     },
                     {
-                        "ref": "TGCO Garden Cloud Area/Starfall Room 1-Up/1-Up",
-                        "name": "Starfall Room 1-Up"
+                        "ref": "TGCO Garden Cloud Area/1-Up (Starfall)/1-Up",
+                        "name": "1-Up (Starfall)"
                     },
                     {
-                        "ref": "TGCO Garden Cloud Area/Starfall Room Maxim Tomato/Maxim Tomato",
-                        "name": "Starfall Room Maxim Tomato"
+                        "ref": "TGCO Garden Cloud Area/Maxim Tomato (Starfall)/Maxim Tomato",
+                        "name": "Maxim Tomato (Starfall)"
                     },
                     {
-                        "ref": "TGCO Garden Cloud Area/Starblock Room Maxim Tomato/Maxim Tomato",
-                        "name": "Starblock Room Maxim Tomato"
+                        "ref": "TGCO Garden Cloud Area/Maxim Tomato (Starblock)/Maxim Tomato",
+                        "name": "Maxim Tomato (Starblock)"
                     },
                     {
                         "ref": "TGCO Garden Right Door Area/Treasure 55/Pegasus Wing",
@@ -1248,23 +1248,23 @@
                         "name": "Orichalcum"
                     },
                     {
-                        "ref": "TGCO Garden Right Door Area/Cannon Room Maxim Tomato/Maxim Tomato",
+                        "ref": "TGCO Garden Right Door Area/Maxim Tomato (Cannon)/Maxim Tomato",
                         "name": "Maxim Tomato (Cannon Room)"
                     },
                     {
-                        "ref": "TGCO Garden Right Door Area/Bugzzy Maxim Tomato/Maxim Tomato",
+                        "ref": "TGCO Garden Right Door Area/Maxim Tomato (Bugzzy)/Maxim Tomato",
                         "name": "Maxim Tomato (Bugzzy Mid-Boss)"
                     },
                     {
-                        "ref": "TGCO Garden Right Door Area/Underwater Maxim Tomato/Maxim Tomato",
+                        "ref": "TGCO Garden Right Door Area/Maxim Tomato (Underwater)/Maxim Tomato",
                         "name": "Maxim Tomato (Underwater Bomb Block)"
                     },
                     {
-                        "ref": "TGCO Garden Right Door Area/Gordo 1-Up/1-Up",
+                        "ref": "TGCO Garden Right Door Area/1-Up (Gordo)/1-Up",
                         "name": "1-Up (Gordo)"
                     },
                     {
-                        "ref": "TGCO Garden Right Door Area/Underwater 1-Up/1-Up",
+                        "ref": "TGCO Garden Right Door Area/1-Up (Underwater)/1-Up",
                         "name": "1-Up (Underwater Bomb Block)"
                     },
                     {
@@ -1276,12 +1276,12 @@
                         "name": "Triforce"
                     },
                     {
-                        "ref": "TGCO Garden Center Door Area/First Room 1-Up/1-Up",
-                        "name": "1-Up (First Room)"
+                        "ref": "TGCO Garden Center Door Area/1-Up (Middle)/1-Up",
+                        "name": "1-Up (Middle)"
                     },
                     {
-                        "ref": "TGCO Garden Center Door Area/First Room Maxim Tomato/Maxim Tomato",
-                        "name": "Maxim Tomato (First Room)"
+                        "ref": "TGCO Garden Center Door Area/Maxim Tomato (Middle)/Maxim Tomato",
+                        "name": "Maxim Tomato (Middle)"
                     },
                     {
                         "ref": "TGCO Garden Center Door Area/Left Essence/Bomb",
@@ -1296,8 +1296,8 @@
                         "name": "Garden Parasol (Boss)"
                     },
                     {
-                        "ref": "TGCO Garden Center Door Area/Essence Maxim Tomato/Maxim Tomato",
-                        "name": "Maxim Tomato (Boss)"
+                        "ref": "TGCO Garden Center Door Area/Maxim Tomato (Essence)/Maxim Tomato",
+                        "name": "Maxim Tomato (Essence)"
                     },
                     {
                         "ref": "TGCO Garden Center Door Area/Boss/Wham Bam Rock",
@@ -1305,7 +1305,7 @@
                     },
                     {
                         "ref": "TGCO Garden Center Door Area/Minecart/Maxim Tomato",
-                        "name": "Minecart Maxim Tomato"
+                        "name": "Maxim Tomato (Minecart)"
                     },
                     {
                         "ref": "TGCO Garden Center Door Area/Minecart/Escape",
@@ -1325,15 +1325,15 @@
                 "sections": [
                     {
                         "ref": "MWW Floria/Cutter Essence/Cutter",
-                        "name": "Cutter"
+                        "name": "Floria Cutter"
                     },
                     {
                         "ref": "MWW Floria/Fighter Essence/Fighter",
-                        "name": "Fighter"
+                        "name": "Floria Fighter"
                     },
                     {
                         "ref": "MWW Floria/Ice Essence/Ice",
-                        "name": "Ice"
+                        "name": "Floria Ice"
                     },
                     {
                         "ref": "MWW Floria/Winter Maxim Tomato/Maxim Tomato",
@@ -1345,18 +1345,18 @@
                     },
                     {
                         "ref": "MWW Aqualiss/Beam Essence/Beam",
-                        "name": "Beam"
+                        "name": "Aqualiss Beam"
                     },
                     {
                         "ref": "MWW Aqualiss/Parasol Essence/Parasol",
-                        "name": "Parasol"
+                        "name": "Aqualiss Parasol"
                     },
                     {
                         "ref": "MWW Aqualiss/Sword Essence/Sword",
-                        "name": "Sword"
+                        "name": "Aqualiss Sword"
                     },
                     {
-                        "ref": "MWW Aqualiss/Underwater 1-Up/1-Up",
+                        "ref": "MWW Aqualiss/1-Up (Underwater)/1-Up",
                         "name": "Aqualiss 1-Up (Underwater)"
                     },
                     {
@@ -1368,7 +1368,7 @@
                         "name": "Aqualiss 1-Up (Maze)"
                     },
                     {
-                        "ref": "MWW Aqualiss/Underwater Maxim Tomato/Maxim Tomato",
+                        "ref": "MWW Aqualiss/Maxim Tomato (Underwater)/Maxim Tomato",
                         "name": "Aqualiss Maxim Tomato (Underwater)"
                     },
                     {
@@ -1389,18 +1389,18 @@
                     },
                     {
                         "ref": "MWW Skyhigh/Jet Essence/Jet",
-                        "name": "Jet"
+                        "name": "Skyhigh Jet"
                     },
                     {
                         "ref": "MWW Skyhigh/Wheel Essence/Wheel",
-                        "name": "Wheel"
+                        "name": "Skyhigh Wheel"
                     },
                     {
                         "ref": "MWW Skyhigh/Wing Essence/Wing",
-                        "name": "Wing"
+                        "name": "Skyhigh Wing"
                     },
                     {
-                        "ref": "MWW Skyhigh/First Room 1-Up/1-Up",
+                        "ref": "MWW Skyhigh/1-Up (Open)/1-Up",
                         "name": "Skyhigh 1-Up (Open)"
                     },
                     {
@@ -1421,11 +1421,11 @@
                     },
                     {
                         "ref": "MWW Hotbeat/Fire Essence/Fire",
-                        "name": "Fire"
+                        "name": "Hotbeat Fire"
                     },
                     {
                         "ref": "MWW Hotbeat/Suplex Essence/Suplex",
-                        "name": "Suplex"
+                        "name": "Hotbeat Suplex"
                     },
                     {
                         "ref": "MWW Hotbeat/Fire Room Invincibility Candy/Invincibility Candy",
@@ -1445,35 +1445,35 @@
                     },
                     {
                         "ref": "MWW Hotbeat/Cannon Room Maxim Tomato 1/Maxim Tomato",
-                        "name": "Hotbeat Maxim Tomato (Cannon Room) 1"
+                        "name": "Hotbeat Maxim Tomato (Cannon Room by 1-Up Bottom)"
                     },
                     {
                         "ref": "MWW Hotbeat/Cannon Room Maxim Tomato 2/Maxim Tomato",
-                        "name": "Hotbeat Maxim Tomato (Cannon Room) 2"
+                        "name": "Hotbeat Maxim Tomato (Cannon Room Next to 1-Up)"
                     },
                     {
                         "ref": "MWW Hotbeat/Cannon Room Maxim Tomato 3/Maxim Tomato",
-                        "name": "Hotbeat Maxim Tomato (Cannon Room) 3"
+                        "name": "Hotbeat Maxim Tomato (Cannon Room Below Crawlspace)"
                     },
                     {
                         "ref": "MWW Hotbeat/Cannon Room Maxim Tomato 4/Maxim Tomato",
-                        "name": "Hotbeat Maxim Tomato (Cannon Room) 4"
+                        "name": "Hotbeat Maxim Tomato (Cannon Room Narrow Hole)"
                     },
                     {
                         "ref": "MWW Hotbeat/Minecart Room 1-Up/1-Up",
-                        "name": "Hotbeat 1-Up (Minecart)"
+                        "name": "Hotbeat 1-Up (Top Route)"
                     },
                     {
                         "ref": "MWW Hotbeat/Cannon Room 1-Up 1/1-Up",
-                        "name": "Hotbeat 1-Up (Cannon Room) 1"
+                        "name": "Hotbeat 1-Up (Cannon Room Bottom)"
                     },
                     {
                         "ref": "MWW Hotbeat/Cannon Room 1-Up 2/1-Up",
-                        "name": "Hotbeat 1-Up (Cannon Room) 2"
+                        "name": "Hotbeat 1-Up (Cannon Room Next to Maxim Tomato)"
                     },
                     {
                         "ref": "MWW Hotbeat/Cannon Room 1-Up 3/1-Up",
-                        "name": "Hotbeat 1-Up (Cannon Room) 3"
+                        "name": "Hotbeat 1-Up (Cannon Room Crawlspace)"
                     },
                     {
                         "ref": "MWW Hotbeat/Boss/Chameleo Arm",
@@ -1481,15 +1481,15 @@
                     },
                     {
                         "ref": "MWW Cavios/Bomb Essence/Bomb",
-                        "name": "Bomb"
+                        "name": "Cavios Bomb"
                     },
                     {
                         "ref": "MWW Cavios/Hammer Essence/Hammer",
-                        "name": "Hammer"
+                        "name": "Cavios Hammer"
                     },
                     {
                         "ref": "MWW Cavios/Stone Essence/Stone",
-                        "name": "Stone"
+                        "name": "Cavios Stone"
                     },
                     {
                         "ref": "MWW Cavios/Mini Boss Room Maxim Tomato 1/Maxim Tomato",
@@ -1529,46 +1529,46 @@
                     },
                     {
                         "ref": "MWW Mecheye/Plasma Essence/Plasma",
-                        "name": "Plasma"
+                        "name": "Mecheye Plasma"
                     },
                     {
                         "ref": "MWW Mecheye/Yo-Yo Essence/Yo-Yo",
-                        "name": "Yo-Yo"
+                        "name": "Mecheye Yo-Yo"
                     },
                     {
-                        "ref": "MWW Mecheye/First Room 1-Up/1-Up",
+                        "ref": "MWW Mechete/1-Up (First Room)/1-Up",
                         "name": "Mecheye 1-Up (1)"
                     },
                     {
-                        "ref": "MWW Mecheye/Falling 1-Up/1-Up",
+                        "ref": "MWW Mecheye/1-Up (Falling)/1-Up",
                         "name": "Mecheye 1-Up (Falling)"
                     },
                     {
-                        "ref": "MWW Mecheye/Plasma 1-Up 1/1-Up",
-                        "name": "Mecheye 1-Up (Plasma 1)"
+                        "ref": "MWW Mecheye/1-Up (Plasma 1, Top)/1-Up",
+                        "name": "Mecheye 1-Up (Plasma 1, Top)"
                     },
                     {
-                        "ref": "MWW Mecheye/Plasma 1-Up 2/1-Up",
-                        "name": "Mecheye 1-Up (Plasma 2)"
+                        "ref": "MWW Mecheye/1-Up (Plasma 2, Middle)/1-Up",
+                        "name": "Mecheye 1-Up (Plasma 2, Middle)"
                     },
                     {
-                        "ref": "MWW Mecheye/Plasma 1-Up 3/1-Up",
-                        "name": "Mecheye 1-Up (Plasma 3)"
+                        "ref": "MWW Mecheye/1-Up (Plasma 3, Bottom)/1-Up",
+                        "name": "Mecheye 1-Up (Plasma 3, Right)"
                     },
                     {
                         "ref": "MWW Mecheye/Falling Invincibility Candy/Invincibility Candy",
                         "name": "Mecheye Invincibility Candy"
                     },
                     {
-                        "ref": "MWW Mecheye/Falling Maxim Tomato/Maxim Tomato",
+                        "ref": "MWW Mecheye/Maxim Tomato (Falling)/Maxim Tomato",
                         "name": "Mecheye Maxim Tomato (Falling)"
                     },
                     {
-                        "ref": "MWW Mecheye/Mini Boss Room Maxim Tomato/Maxim Tomato",
+                        "ref": "MWW Mecheye/Maxim Tomato (Mini-Boss Tower)/Maxim Tomato",
                         "name": "Mecheye Maxim Tomato (Mini-Boss Tower)"
                     },
                     {
-                        "ref": "MWW Mecheye/Plasma Room Maxim Tomato/Maxim Tomato",
+                        "ref": "MWW Mecheye/Maxim Tomato (Plasma)/Maxim Tomato",
                         "name": "Mecheye Maxim Tomato (Plasma)"
                     },
                     {
@@ -1577,14 +1577,14 @@
                     },
                     {
                         "ref": "MWW Halfmoon/Mirror Essence/Mirror",
-                        "name": "Mirror"
+                        "name": "Halfmoon Mirror"
                     },
                     {
                         "ref": "MWW Halfmoon/Ninja Essence/Ninja",
-                        "name": "Ninja"
+                        "name": "Halfmoon Ninja"
                     },
                     {
-                        "ref": "MWW Halfmoon/Warp Star Room 1-Up/1-Up",
+                        "ref": "MWW Halfmoon/1-Up (Warp Star)/1-Up",
                         "name": "Halfmoon 1-Up"
                     },
                     {
@@ -1916,24 +1916,24 @@
                         "name": "Peanut Plains Goal"
                     },
                     {
-                        "ref": "DynaBlade - Peanut Plains/PP 1-Up 1/1-Up",
+                        "ref": "DynaBlade - Peanut Plains/PP 1-Up (Bomb Block)/1-Up",
                         "name": "Peanut Plains 1-up 1"
                     },
                     {
-                        "ref": "DynaBlade - Peanut Plains/PP 1-Up 2/1-Up",
+                        "ref": "DynaBlade - Peanut Plains/PP 1-Up (In the Sky)/1-Up",
                         "name": "Peanut Plains 1-up 2"
                     },
                     {
-                        "ref": "DynaBlade - Peanut Plains/PP Maxim Tomato 1/Maxim Tomato",
-                        "name": "Peanut Plains Maxim Tomato 1"
+                        "ref": "DynaBlade - Peanut Plains/PP Maxim Tomato (Sword Essence)/Maxim Tomato",
+                        "name": "Peanut Plains Maxim Tomato (Sword Essence)"
                     },
                     {
-                        "ref": "DynaBlade - Peanut Plains/PP Maxim Tomato 2/Maxim Tomato",
-                        "name": "Peanut Plains Maxim Tomato 2"
+                        "ref": "DynaBlade - Peanut Plains/PP Maxim Tomato (In the Sky)/Maxim Tomato",
+                        "name": "Peanut Plains Maxim Tomato (In the Sky)"
                     },
                     {
-                        "ref": "DynaBlade - Peanut Plains/PP Maxim Tomato 3/Maxim Tomato",
-                        "name": "Peanut Plains Maxim Tomato 3"
+                        "ref": "DynaBlade - Peanut Plains/PP Maxim Tomato (Mini-Boss)/Maxim Tomato",
+                        "name": "Peanut Plains Maxim Tomato (Mini-BosS)"
                     },
                     {
                         "ref": "DynaBlade - Peanut Plains/PP Invincibility Candy/Invincibility Candy",
@@ -1968,7 +1968,7 @@
                         "name": "Maxim Tomato"
                     },
                     {
-                        "ref": "DynaBlade - Mallow Castle/MC Wheel Trophy/Wheel",
+                        "ref": "DynaBlade - Mallow Castle/MC Wheel Essence/Wheel",
                         "name": "Wheel"
                     },
                     {
@@ -1981,15 +1981,15 @@
                     },
                     {
                         "ref": "DynaBlade - Mallow Castle/MC Destroyed Castle 1/1-Up (Left)",
-                        "name": "Destroyed Castle 1-Up 1"
+                        "name": "Destroyed Castle 1-Up (Demolished Left)"
                     },
                     {
                         "ref": "DynaBlade - Mallow Castle/MC Destroyed Castle 2/1-Up (Middle)",
-                        "name": "Destroyed Castle 1-Up 2"
+                        "name": "Destroyed Castle 1-Up (Demolished Middle)"
                     },
                     {
                         "ref": "DynaBlade - Mallow Castle/MC Destroyed Castle 3/1-Up (Right)",
-                        "name": "Destroyed Castle 1-Up 3"
+                        "name": "Destroyed Castle 1-Up (Demolished Right)"
                     }
                 ],
                 "map_locations": [
@@ -2012,12 +2012,12 @@
                         "name": "Cocoa Cave Maxim Tomato"
                     },
                     {
-                        "ref": "DynaBlade - Cocoa Cave/CC 1-Up 1/1-Up (Starblock)",
-                        "name": "Cocoa Cave 1-Up 1"
+                        "ref": "DynaBlade - Cocoa Cave/CC 1-Up (Starblock)/1-Up",
+                        "name": "Cocoa Cave 1-Up (Starblock)"
                     },
                     {
-                        "ref": "DynaBlade - Cocoa Cave/CC 1-Up 2/1-Up 2",
-                        "name": "Cocoa Cave 1-Up 2"
+                        "ref": "DynaBlade - Cocoa Cave/CC 1-Up (Fire Cave)/1-Up",
+                        "name": "Cocoa Cave 1-Up (Fire Cave)"
                     }
                 ],
                 "map_locations": [
@@ -2053,39 +2053,39 @@
                     },
                     {
                         "ref": "DynaBlade - Candy Mountain/CM Maxim Tomato 1/Maxim Tomato (Cannon Left)",
-                        "name": "Candy Mountain Maxim Tomato 1"
+                        "name": "Candy Mountain Maxim Tomato (Cannon Left)"
                     },
                     {
                         "ref": "DynaBlade - Candy Mountain/CM Maxim Tomato 2/Maxim Tomato (Cannon Right)",
-                        "name": "Candy Mountain Maxim Tomato 2"
+                        "name": "Candy Mountain Maxim Tomato (Cannon Right)"
                     },
                     {
-                        "ref": "DynaBlade - Candy Mountain/CM Maxim Tomato 3/Maxim Tomato (Boss)",
-                        "name": "Candy Mountain Maxim Tomato 3"
+                        "ref": "DynaBlade - Candy Mountain/CM Maxim Tomato (Boss)/Maxim Tomato",
+                        "name": "Candy Mountain Maxim Tomato (Boss)"
                     },
                     {
-                        "ref": "DynaBlade - Candy Mountain/CM 1-Up 1/1-Up",
-                        "name": "Candy Mountain 1-Up 1"
+                        "ref": "DynaBlade - Candy Mountain/CM 1-Up (Upper)/1-Up",
+                        "name": "Candy Mountain 1-Up (Upper_"
                     },
                     {
                         "ref": "DynaBlade - Candy Mountain/CM 1-Up Trio 1/Left 1-Up",
-                        "name": "Candy Mountain 1-Up 2"
+                        "name": "Candy Mountain 1-Up (Fire 1, Left)"
                     },
                     {
                         "ref": "DynaBlade - Candy Mountain/CM 1-Up Trio 2/Top 1-Up",
-                        "name": "Candy Mountain 1-Up 3"
+                        "name": "Candy Mountain 1-Up (Fire 2, Top)"
                     },
                     {
                         "ref": "DynaBlade - Candy Mountain/CM 1-Up Trio 3/Right 1-Up",
-                        "name": "Candy Mountain 1-Up 4"
+                        "name": "Candy Mountain 1-Up (Fire 3, Right)"
                     },
                     {
-                        "ref": "DynaBlade - Candy Mountain/CM 1-Up 5/1-Up",
-                        "name": "Candy Mountain 1-Up 5"
+                        "ref": "DynaBlade - Candy Mountain/CM 1-Up (Cannon)/1-Up",
+                        "name": "Candy Mountain 1-Up (Cannon)"
                     },
                     {
-                        "ref": "DynaBlade - Candy Mountain/CM 1-Up 6/1-Up",
-                        "name": "Candy Mountain 1-Up 6"
+                        "ref": "DynaBlade - Candy Mountain/CM 1-Up (Stonewall)/1-Up",
+                        "name": "Candy Mountain 1-Up (Stonewall)"
                     }
                 ],
                 "map_locations": [
@@ -2382,7 +2382,7 @@
                 ]
             },
             {
-                "name": "PP 1-Up 1",
+                "name": "PP 1-Up (Bomb Block)",
                 "sections": [
                     {
                         "name": "1-Up",
@@ -2405,7 +2405,7 @@
                 ]
             },
             {
-                "name": "PP 1-Up 2",
+                "name": "PP 1-Up (In the Sky)",
                 "sections": [
                     {
                         "name": "1-Up",
@@ -2425,7 +2425,7 @@
                 ]
             },
             {
-                "name": "PP Maxim Tomato 1",
+                "name": "PP Maxim Tomato (Sword Essence)",
                 "sections": [
                     {
                         "name": "Maxim Tomato",
@@ -2445,7 +2445,7 @@
                 ]
             },
             {
-                "name": "PP Maxim Tomato 2",
+                "name": "PP Maxim Tomato (In the Sky)",
                 "sections": [
                     {
                         "name": "Maxim Tomato",
@@ -2465,7 +2465,7 @@
                 ]
             },
             {
-                "name": "PP Maxim Tomato 3",
+                "name": "PP Maxim Tomato (Mini-Boss)",
                 "sections": [
                     {
                         "name": "Maxim Tomato",
@@ -2577,7 +2577,7 @@
                 ]
             },
             {
-                "name": "MC Wheel Trophy",
+                "name": "MC Wheel Essence",
                 "sections": [
                     {
                         "name": "Wheel",
@@ -2781,10 +2781,10 @@
                 ]
             },
             {
-                "name": "CC 1-Up 1",
+                "name": "CC 1-Up (Starblock)",
                 "sections": [
                     {
-                        "name": "1-Up (Starblock)",
+                        "name": "1-Up",
                         "chest_unopened_img": "/images/1-Up2.png",
                         "chest_opened_img": "/images/1-Up.png",
                         "visibility_rules": [
@@ -2801,10 +2801,10 @@
                 ]
             },
             {
-                "name": "CC 1-Up 2",
+                "name": "CC 1-Up (Fire Cave)",
                 "sections": [
                     {
-                        "name": "1-Up 2",
+                        "name": "1-Up",
                         "chest_unopened_img": "/images/1-Up2.png",
                         "chest_opened_img": "/images/1-Up.png",
                         "visibility_rules": [
@@ -2841,8 +2841,8 @@
                         "name": "CM Hammer Essence"
                     },
                     {
-                        "ref": "DynaBlade - Candy Mountain/CM 1-Up 1/1-Up",
-                        "name": "CM 1-Up 1"
+                        "ref": "DynaBlade - Candy Mountain/CM 1-Up (Upper)/1-Up",
+                        "name": "CM 1-Up (Upper)"
                     }
                 ],
                 "map_locations": [
@@ -2885,7 +2885,7 @@
                         "name": "CM Left Maxim"
                     },
                     {
-                        "ref": "DynaBlade - Candy Mountain/CM 1-Up 5/1-Up",
+                        "ref": "DynaBlade - Candy Mountain/CM 1-Up (Cannon)/1-Up",
                         "name": "Candy Mountain 1-Up 5"
                     },
                     {
@@ -3042,10 +3042,10 @@
                 ]
             },
             {
-                "name": "CM Maxim Tomato 3",
+                "name": "CM Maxim Tomato (Boss)",
                 "sections": [
                     {
-                        "name": "Maxim Tomato (Boss)",
+                        "name": "Maxim Tomato",
                         "chest_unopened_img": "/images/Maxim2.png",
                         "chest_opened_img": "/images/Maxim.png",
                         "visibility_rules": [
@@ -3062,7 +3062,7 @@
                 ]
             },
             {
-                "name": "CM 1-Up 1",
+                "name": "CM 1-Up (Upper)",
                 "access_rules": [
                     "Hammer",
                     "Stone",
@@ -3156,7 +3156,7 @@
                 ]
             },
             {
-                "name": "CM 1-Up 5",
+                "name": "CM 1-Up (Cannon)",
                 "access_rules": [
                     "Fire"
                 ],
@@ -3179,7 +3179,7 @@
                 ]
             },
             {
-                "name": "CM 1-Up 6",
+                "name": "CM 1-Up (Stonewall)",
                 "sections": [
                     {
                         "name": "1-Up",
@@ -3253,7 +3253,7 @@
                 ]
             },
             {
-                "name": "CH2 Underwater Maxim Tomato",
+                "name": "CH2 Maxim Tomato (Underwater)",
                 "sections": [
                     {
                         "name": "Maxim Tomato",
@@ -3273,7 +3273,7 @@
                 ]
             },
             {
-                "name": "CH2 Boss Maxim Tomato",
+                "name": "CH2 Maxim Tomato (Boss)",
                 "sections": [
                     {
                         "name": "Maxim Tomato",
@@ -3383,7 +3383,7 @@
                 ]
             },
             {
-                "name": "CH3 Hidden Room 1-Up",
+                "name": "CH3 1-Up (Hidden Room)",
                 "sections": [
                     {
                         "name": "1-Up",
@@ -3403,7 +3403,7 @@
                 ]
             },
             {
-                "name": "CH3 Stake 1-Up",
+                "name": "CH3 1-Up (Stake)",
                 "sections": [
                     {
                         "name": "1-Up",
@@ -3427,7 +3427,7 @@
                 ]
             },
             {
-                "name": "CH3 Maxim Tomato",
+                "name": "CH3 Maxim Tomato (Stake)",
                 "sections": [
                     {
                         "name": "Maxim",
@@ -3690,7 +3690,7 @@
                 ]
             },
             {
-                "name": "CH4 Fire Room Maxim",
+                "name": "CH4 Maxim Tomato (Hidden)",
                 "sections": [
                     {
                         "name": "Maxim Tomato",
@@ -3710,7 +3710,7 @@
                 ]
             },
             {
-                "name": "CH4 Boss Maxim Tomato",
+                "name": "CH4 Maxim Tomato (Boss)",
                 "sections": [
                     {
                         "name": "Maxim Tomato",
@@ -3845,7 +3845,7 @@
                 ]
             },
             {
-                "name": "CH5 Mini-Boss Maxim Tomato",
+                "name": "CH5 Maxim Tomato (Mini-Boss)",
                 "sections": [
                     {
                         "name": "Maxim Tomato",
@@ -3865,7 +3865,7 @@
                 ]
             },
             {
-                "name": "CH5 Hidden Room Maxim Tomato",
+                "name": "CH5 Maxim Tomato (Armory)",
                 "sections": [
                     {
                         "name": "Maxim Tomato",
@@ -3885,7 +3885,7 @@
                 ]
             },
             {
-                "name": "CH5 Boss Maxim Tomato",
+                "name": "CH5 Maxim Tomato (Boss)",
                 "sections": [
                     {
                         "name": "Maxim Tomato",
@@ -3945,7 +3945,7 @@
                 ]
             },
             {
-                "name": "CH5 Hidden Room Essence 1",
+                "name": "CH5 Armory Essence 1",
                 "sections": [
                     {
                         "name": "Ice",
@@ -3965,7 +3965,7 @@
                 ]
             },
             {
-                "name": "CH5 Hidden Room Essence 2",
+                "name": "CH5 Armory Essence 2",
                 "sections": [
                     {
                         "name": "Parasol",
@@ -3985,7 +3985,7 @@
                 ]
             },
             {
-                "name": "CH5 Hidden Room Essence 3",
+                "name": "CH5 Armory Essence 3",
                 "sections": [
                     {
                         "name": "Beam",
@@ -4005,7 +4005,7 @@
                 ]
             },
             {
-                "name": "CH5 Hidden Room Essence 4",
+                "name": "CH5 Armory Essence 4",
                 "sections": [
                     {
                         "name": "Hammer",
@@ -4025,7 +4025,7 @@
                 ]
             },
             {
-                "name": "CH5 Hidden Room Essence 5",
+                "name": "CH5 Armory Essence 5",
                 "sections": [
                     {
                         "name": "Plasma",
@@ -4045,7 +4045,7 @@
                 ]
             },
             {
-                "name": "CH5 Hidden Room Essence 6",
+                "name": "CH5 Armory Essence 6",
                 "sections": [
                     {
                         "name": "Cutter",
@@ -4065,7 +4065,7 @@
                 ]
             },
             {
-                "name": "CH5 Hidden Room Essence 7",
+                "name": "CH5 Armory Essence 7",
                 "sections": [
                     {
                         "name": "Mirror",
@@ -4139,7 +4139,7 @@
                 ]
             },
             {
-                "name": "CH6 Yo-Yo 1-Up",
+                "name": "CH6 1-Up (Yo-Yo)",
                 "sections": [
                     {
                         "name": "1-Up",
@@ -4159,7 +4159,7 @@
                 ]
             },
             {
-                "name": "CH6 Blocked Room 1-Up",
+                "name": "CH6 1-Up (Stash)",
                 "sections": [
                     {
                         "name": "1-Up",
@@ -4183,7 +4183,7 @@
                 ]
             },
             {
-                "name": "CH6 Blocked Room Maxim Tomato",
+                "name": "CH6 Maxim Tomato (Stash)",
                 "sections": [
                     {
                         "name": "Maxim Tomato",
@@ -4207,7 +4207,7 @@
                 ]
             },
             {
-                "name": "CH6 Cloud Room Maxim Tomato",
+                "name": "CH6 Maxim Tomato (Secret)",
                 "sections": [
                     {
                         "name": "Maxim Tomato",
@@ -4227,7 +4227,7 @@
                 ]
             },
             {
-                "name": "CH6 Boss Maxim Tomato",
+                "name": "CH6 Maxim Tomato (Boss)",
                 "sections": [
                     {
                         "name": "Maxim Tomato",
@@ -4403,7 +4403,7 @@
                     },
                     {
                         "name": "Maxim Tomato",
-                        "ref": "Revenge of Meta Knight - Chapter 6/CH6 Cloud Room Maxim Tomato/Maxim Tomato"
+                        "ref": "Revenge of Meta Knight - Chapter 6/CH6 Maxim Tomato (Secret)/Maxim Tomato"
                     },
                     {
                         "name": "Invincibility Candy",
@@ -4453,7 +4453,7 @@
                 ]
             },
             {
-                "name": "CH7 Side-Scrolling Maxim Tomato",
+                "name": "CH7 Maxim Tomato (Auto)",
                 "sections": [
                     {
                         "name": "Maxim Tomato",
@@ -4473,7 +4473,7 @@
                 ]
             },
             {
-                "name": "CH7 Elevator Left Maxim Tomato",
+                "name": "CH7 Maxim Tomato (Elevator Left)",
                 "sections": [
                     {
                         "name": "Maxim Tomato",
@@ -4493,7 +4493,7 @@
                 ]
             },
             {
-                "name": "CH7 Elevator Right Maxim Tomato",
+                "name": "CH7 Maxim Tomato (Elevator Right)",
                 "sections": [
                     {
                         "name": "Maxim Tomato",
@@ -4513,7 +4513,7 @@
                 ]
             },
             {
-                "name": "CH7 Boss Maxim Tomato",
+                "name": "CH7 Maxim Tomato (Boss)",
                 "sections": [
                     {
                         "name": "Maxim Tomato",
@@ -4767,7 +4767,7 @@
                         "name": "Sword"
                     },
                     {
-                        "ref": "MWW Aqualiss/Underwater 1-Up/1-Up",
+                        "ref": "MWW Aqualiss/1-Up (Underwater)/1-Up",
                         "name": "Aqualiss 1-Up (Underwater)"
                     },
                     {
@@ -4779,7 +4779,7 @@
                         "name": "Aqualiss 1-Up (Maze)"
                     },
                     {
-                        "ref": "MWW Aqualiss/Underwater Maxim Tomato/Maxim Tomato",
+                        "ref": "MWW Aqualiss/Maxim Tomato (Underwater)/Maxim Tomato",
                         "name": "Aqualiss Maxim Tomato (Underwater)"
                     },
                     {
@@ -4823,7 +4823,7 @@
                         "name": "Wing"
                     },
                     {
-                        "ref": "MWW Skyhigh/First Room 1-Up/1-Up",
+                        "ref": "MWW Skyhigh/1-Up (Open)/1-Up",
                         "name": "Skyhigh 1-Up (Open)"
                     },
                     {
@@ -4995,23 +4995,23 @@
                         "name": "Yo-Yo"
                     },
                     {
-                        "ref": "MWW Mecheye/First Room 1-Up/1-Up",
+                        "ref": "MWW Mechete/1-Up (First Room)/1-Up",
                         "name": "Mecheye 1-Up (1)"
                     },
                     {
-                        "ref": "MWW Mecheye/Falling 1-Up/1-Up",
+                        "ref": "MWW Mecheye/1-Up (Falling)/1-Up",
                         "name": "Mecheye 1-Up (Falling)"
                     },
                     {
-                        "ref": "MWW Mecheye/Plasma 1-Up 1/1-Up",
+                        "ref": "MWW Mecheye/1-Up (Plasma 1, Top)/1-Up",
                         "name": "Mecheye 1-Up (Plasma 1)"
                     },
                     {
-                        "ref": "MWW Mecheye/Plasma 1-Up 2/1-Up",
+                        "ref": "MWW Mecheye/1-Up (Plasma 2, Middle)/1-Up",
                         "name": "Mecheye 1-Up (Plasma 2)"
                     },
                     {
-                        "ref": "MWW Mecheye/Plasma 1-Up 3/1-Up",
+                        "ref": "MWW Mecheye/1-Up (Plasma 3, Bottom)/1-Up",
                         "name": "Mecheye 1-Up (Plasma 3)"
                     },
                     {
@@ -5019,15 +5019,15 @@
                         "name": "Mecheye Invincibility Candy"
                     },
                     {
-                        "ref": "MWW Mecheye/Falling Maxim Tomato/Maxim Tomato",
+                        "ref": "MWW Mecheye/Maxim Tomato (Falling)/Maxim Tomato",
                         "name": "Mecheye Maxim Tomato (Falling)"
                     },
                     {
-                        "ref": "MWW Mecheye/Mini Boss Room Maxim Tomato/Maxim Tomato",
+                        "ref": "MWW Mecheye/Maxim Tomato (Mini-Boss Tower)/Maxim Tomato",
                         "name": "Mecheye Maxim Tomato (Mini-Boss Tower)"
                     },
                     {
-                        "ref": "MWW Mecheye/Plasma Room Maxim Tomato/Maxim Tomato",
+                        "ref": "MWW Mecheye/Maxim Tomato (Plasma)/Maxim Tomato",
                         "name": "Mecheye Maxim Tomato (Plasma)"
                     },
                     {
@@ -5055,7 +5055,7 @@
                         "name": "Ninja"
                     },
                     {
-                        "ref": "MWW Halfmoon/Warp Star Room 1-Up/1-Up",
+                        "ref": "MWW Halfmoon/1-Up (Warp Star)/1-Up",
                         "name": "Halfmoon 1-Up"
                     },
                     {
@@ -5336,7 +5336,7 @@
                 ]
             },
             {
-                "name": "Underwater 1-Up",
+                "name": "1-Up (Underwater)",
                 "sections": [
                     {
                         "name": "1-Up",
@@ -5405,7 +5405,7 @@
                 ]
             },
             {
-                "name": "Underwater Maxim Tomato",
+                "name": "Maxim Tomato (Underwater)",
                 "sections": [
                     {
                         "name": "Maxim Tomato",
@@ -5577,7 +5577,7 @@
                 ]
             },
             {
-                "name": "First Room 1-Up",
+                "name": "1-Up (Open)",
                 "sections": [
                     {
                         "name": "1-Up",
@@ -6238,7 +6238,7 @@
                 ]
             },
             {
-                "name": "First Room 1-Up",
+                "name": "1-Up (First Room)",
                 "sections": [
                     {
                         "name": "1-Up",
@@ -6258,7 +6258,7 @@
                 ]
             },
             {
-                "name": "Falling 1-Up",
+                "name": "1-Up (Falling)",
                 "sections": [
                     {
                         "name": "1-Up",
@@ -6278,7 +6278,7 @@
                 ]
             },
             {
-                "name": "Plasma 1-Up 1",
+                "name": "1-Up (Plasma 1, Top)",
                 "access_rules": [
                     "Plasma"
                 ],
@@ -6301,7 +6301,7 @@
                 ]
             },
             {
-                "name": "Plasma 1-Up 2",
+                "name": "1-Up (Plasma 2, Middle)",
                 "access_rules": [
                     "Plasma"
                 ],
@@ -6324,7 +6324,7 @@
                 ]
             },
             {
-                "name": "Plasma 1-Up 3",
+                "name": "1-Up (Plasma 3, Bottom)",
                 "access_rules": [
                     "Plasma"
                 ],
@@ -6367,7 +6367,7 @@
                 ]
             },
             {
-                "name": "Falling Maxim Tomato",
+                "name": "Maxim Tomato (Falling)",
                 "sections": [
                     {
                         "name": "Maxim Tomato",
@@ -6387,7 +6387,7 @@
                 ]
             },
             {
-                "name": "Mini Boss Room Maxim Tomato",
+                "name": "Maxim Tomato (Mini-Boss Tower)",
                 "sections": [
                     {
                         "name": "Maxim Tomato",
@@ -6407,7 +6407,7 @@
                 ]
             },
             {
-                "name": "Plasma Room Maxim Tomato",
+                "name": "Maxim Tomato (Plasma)",
                 "access_rules": [
                     "Plasma"
                 ],
@@ -6501,7 +6501,7 @@
                 ]
             },
             {
-                "name": "Warp Star Room 1-Up",
+                "name": "1-Up (Warp Star)",
                 "sections": [
                     {
                         "name": "1-Up",
@@ -6798,7 +6798,7 @@
                 ]
             },
             {
-                "name": "Maxim Tomato",
+                "name": "Maxim Tomato (Zebra Mask)",
                 "sections": [
                     {
                         "name": "Maxim Tomato",
@@ -6818,7 +6818,7 @@
                 ]
             },
             {
-                "name": "Underwater 1-Up",
+                "name": "1-Up (Underwater)",
                 "access_rules": [
                     "Bomb",
                     "Beam"
@@ -7022,7 +7022,7 @@
                 ]
             },
             {
-                "name": "Essence Maxim Tomato",
+                "name": "Maxim Tomato (Essence)",
                 "sections": [
                     {
                         "name": "Maxim Tomato",
@@ -7119,7 +7119,7 @@
                 ]
             },
             {
-                "name": "Underwater 1-Up",
+                "name": "1-Up (Underwater)",
                 "sections": [
                     {
                         "name": "1-Up",
@@ -7349,7 +7349,7 @@
                 ]
             },
             {
-                "name": "Bomb Block Maxim Tomato",
+                "name": "Maxim Tomato (Bomb Block)",
                 "sections": [
                     {
                         "name": "Maxim Tomato",
@@ -7369,7 +7369,7 @@
                 ]
             },
             {
-                "name": "Spike Area Maxim Tomato",
+                "name": "Maxim Tomato (Spikes)",
                 "sections": [
                     {
                         "name": "Maxim Tomato",
@@ -7423,8 +7423,8 @@
                 "map_locations": [
                     {
                         "map": "Crystal Right Door Area",
-                        "x": 69,
-                        "y": 165
+                        "x": 622,
+                        "y": 311
                     }
                 ]
             },
@@ -7444,8 +7444,8 @@
                 "map_locations": [
                     {
                         "map": "Crystal Right Door Area",
-                        "x": 69,
-                        "y": 165
+                        "x": 1344,
+                        "y": 287
                     }
                 ]
             },
@@ -7459,13 +7459,13 @@
                 "map_locations": [
                     {
                         "map": "Crystal Right Door Area",
-                        "x": 69,
-                        "y": 165
+                        "x": 2279,
+                        "y": 286
                     }
                 ]
             },
             {
-                "name": "Before Truth Mirror Maxim Tomato",
+                "name": "Maxim Tomato (Before Truth Mirror)",
                 "sections": [
                     {
                         "name": "Maxim Tomato",
@@ -7555,7 +7555,7 @@
                 ]
             },
             {
-                "name": "Essence Maxim Tomato",
+                "name": "Maxim Tomato (Essence)",
                 "sections": [
                     {
                         "name": "Maxim Tomato",
@@ -7641,11 +7641,11 @@
                         "name": "Maxim Tomato (Mini-Boss)"
                     },
                     {
-                        "ref": "TGCO Old Tower Area 2/Falchion Treasure Maxim Tomato/Maxim Tomato",
+                        "ref": "TGCO Old Tower Area 2/Maxim Tomato (Falchion Treasure)/Maxim Tomato",
                         "name": "Maxim Tomato (Falchion Treasure)"
                     },
                     {
-                        "ref": "TGCO Old Tower Area 2/Falchion Treasure 1-Up/1-Up",
+                        "ref": "TGCO Old Tower Area 2/1-Up (Falchion Treasure)/1-Up",
                         "name": "1-Up (Falchion Treasure)"
                     }
                 ],
@@ -7673,7 +7673,7 @@
                 ]
             },
             {
-                "name": "Bottom Room Maxim Tomato",
+                "name": "Maxim Tomato (Bottom Entrance)",
                 "sections": [
                     {
                         "name": "Maxim Tomato",
@@ -7713,7 +7713,7 @@
                 ]
             },
             {
-                "name": "Bottom Room 1-Up",
+                "name": "1-Up (Bottom Entrance)",
                 "sections": [
                     {
                         "name": "1-Up",
@@ -7812,7 +7812,7 @@
                 ]
             },
             {
-                "name": "Falchion Treasure Maxim Tomato",
+                "name": "Maxim Tomato (Falchion Treasure)",
                 "sections": [
                     {
                         "name": "Maxim Tomato",
@@ -7820,6 +7820,9 @@
                         "chest_opened_img": "/images/Maxim.png",
                         "visibility_rules": [
                             "Maxim_Tomato"
+                        ],
+                        "access_rules": [
+                            "Fire"
                         ]
                     }
                 ],
@@ -7832,7 +7835,7 @@
                 ]
             },
             {
-                "name": "Falchion Treasure 1-Up",
+                "name": "1-Up (Falchion Treasure)",
                 "sections": [
                     {
                         "name": "1-Up",
@@ -7840,6 +7843,9 @@
                         "chest_opened_img": "/images/1-Up.png",
                         "visibility_rules": [
                             "1-Up"
+                        ],
+                        "access_rules": [
+                            "Fire"
                         ]
                     }
                 ],
@@ -7948,7 +7954,7 @@
                 ]
             },
             {
-                "name": "Tut's Mask Maxim Tomato",
+                "name": "Maxim Tomato (Tut's Mask)",
                 "access_rules": [
                     "Parasol",
                     "Yo-Yo",
@@ -8048,10 +8054,10 @@
                 ]
             },
             {
-                "name": "Sleep Room Essence 1",
+                "name": "Sleep Room Essence 2",
                 "sections": [
                     {
-                        "name": "Left Sleep",
+                        "name": "Far Left",
                         "chest_unopened_img": "/images/Essences/generices.png",
                         "chest_opened_img": "/images/Essences/eschecked.png",
                         "visibility_rules": [
@@ -8068,10 +8074,10 @@
                 ]
             },
             {
-                "name": "Sleep Room Essence 2",
+                "name": "Sleep Room Essence 5",
                 "sections": [
                     {
-                        "name": "Top Sleep",
+                        "name": "First Top",
                         "chest_unopened_img": "/images/Essences/generices.png",
                         "chest_opened_img": "/images/Essences/eschecked.png",
                         "visibility_rules": [
@@ -8088,10 +8094,10 @@
                 ]
             },
             {
-                "name": "Sleep Room Essence 3",
+                "name": "Sleep Room Essence 1",
                 "sections": [
                     {
-                        "name": "Bottom Sleep",
+                        "name": "First Bottom",
                         "chest_unopened_img": "/images/Essences/generices.png",
                         "chest_opened_img": "/images/Essences/eschecked.png",
                         "visibility_rules": [
@@ -8111,7 +8117,7 @@
                 "name": "Sleep Room Essence 4",
                 "sections": [
                     {
-                        "name": "Right Sleep",
+                        "name": "Second Middle",
                         "chest_unopened_img": "/images/Essences/generices.png",
                         "chest_opened_img": "/images/Essences/eschecked.png",
                         "visibility_rules": [
@@ -8128,10 +8134,10 @@
                 ]
             },
             {
-                "name": "Sleep Room Essence 5",
+                "name": "Sleep Room Essence 3",
                 "sections": [
                     {
-                        "name": "Top Sleep 2",
+                        "name": "Middle Top",
                         "chest_unopened_img": "/images/Essences/generices.png",
                         "chest_opened_img": "/images/Essences/eschecked.png",
                         "visibility_rules": [
@@ -8151,7 +8157,7 @@
                 "name": "Sleep Room Essence 6",
                 "sections": [
                     {
-                        "name": "Bottom Sleep 2",
+                        "name": "Second Bottom",
                         "chest_unopened_img": "/images/Essences/generices.png",
                         "chest_opened_img": "/images/Essences/eschecked.png",
                         "visibility_rules": [
@@ -8171,7 +8177,7 @@
                 "name": "Sleep Room Essence 7",
                 "sections": [
                     {
-                        "name": "Top Sleep 3",
+                        "name": "Far Top",
                         "chest_unopened_img": "/images/Essences/generices.png",
                         "chest_opened_img": "/images/Essences/eschecked.png",
                         "visibility_rules": [
@@ -8191,7 +8197,7 @@
                 "name": "Sleep Room Essence 8",
                 "sections": [
                     {
-                        "name": "Bottom Sleep 3",
+                        "name": "Far Bottom",
                         "chest_unopened_img": "/images/Essences/generices.png",
                         "chest_opened_img": "/images/Essences/eschecked.png",
                         "visibility_rules": [
@@ -8208,7 +8214,7 @@
                 ]
             },
             {
-                "name": "Space Room Maxim Tomato",
+                "name": "Maxim Tomato (Star Spring)",
                 "sections": [
                     {
                         "name": "Maxim Tomato",
@@ -8298,7 +8304,7 @@
                 ]
             },
             {
-                "name": "Essence Maxim Tomato",
+                "name": "Maxim Tomato (Essence)",
                 "sections": [
                     {
                         "name": "Maxim Tomato",
@@ -8442,7 +8448,7 @@
                         "name": "Model Ship"
                     },
                     {
-                        "ref": "TGCO Old Tower Area 7/Outside Left Spire Maxim/Maxim Tomato",
+                        "ref": "TGCO Old Tower Area 7/Maxim Tomato (Outside Left Spire)/Maxim Tomato",
                         "name": "Maxim Tomato"
                     }
                 ],
@@ -8462,7 +8468,7 @@
                         "name": "Model Ship"
                     },
                     {
-                        "ref": "TGCO Old Tower Area 7/Outside Right Spire Maxim/Maxim Tomato",
+                        "ref": "TGCO Old Tower Area 7/Maxim Tomato (Outside Right Spire)/Maxim Tomato",
                         "name": "Maxim Tomato"
                     }
                 ],
@@ -8509,7 +8515,7 @@
                 ]
             },
             {
-                "name": "Left Spire Maxim",
+                "name": "Maxim Tomato (Left Spire)",
                 "sections": [
                     {
                         "name": "Maxim Tomato",
@@ -8529,7 +8535,7 @@
                 ]
             },
             {
-                "name": "Outside Left Spire Maxim",
+                "name": "Maxim Tomato (Outside Left Spire)",
                 "sections": [
                     {
                         "name": "Maxim Tomato",
@@ -8549,7 +8555,7 @@
                 ]
             },
             {
-                "name": "Right Spire Maxim",
+                "name": "Maxim Tomato (Right Spire)",
                 "sections": [
                     {
                         "name": "Maxim Tomato",
@@ -8569,7 +8575,7 @@
                 ]
             },
             {
-                "name": "Outside Right Spire Maxim",
+                "name": "Maxim Tomato (Outside Right Spire)",
                 "sections": [
                     {
                         "name": "Maxim Tomato",
@@ -8807,28 +8813,28 @@
                         "name": "Garden Parasol (Cloud)"
                     },
                     {
-                        "ref": "TGCO Garden Cloud Area/Hidden Room Left 1-Up/1-Up",
-                        "name": "Hidden Room Left 1-Up"
+                        "ref": "TGCO Garden Cloud Area/1-Up (Hidden Left)/1-Up",
+                        "name": "1-Up (Hidden Left)"
                     },
                     {
-                        "ref": "TGCO Garden Cloud Area/Hidden Room Right 1-Up/1-Up",
-                        "name": "Hidden Room Right 1-Up"
+                        "ref": "TGCO Garden Cloud Area/1-Up (Hidden Right)/1-Up",
+                        "name": "1-Up (Hidden Right)"
                     },
                     {
-                        "ref": "TGCO Garden Cloud Area/Hidden Room Maxim Tomato/Maxim Tomato",
-                        "name": "Hidden Room Maxim Tomato"
+                        "ref": "TGCO Garden Cloud Area/Maxim Tomato (Hidden)/Maxim Tomato",
+                        "name": "Maxim Tomato (Hidden)"
                     },
                     {
-                        "ref": "TGCO Garden Cloud Area/Starfall Room 1-Up/1-Up",
-                        "name": "Starfall Room 1-Up"
+                        "ref": "TGCO Garden Cloud Area/1-Up (Starfall)/1-Up",
+                        "name": "1-Up (Starfall)"
                     },
                     {
-                        "ref": "TGCO Garden Cloud Area/Starfall Room Maxim Tomato/Maxim Tomato",
-                        "name": "Starfall Room Maxim Tomato"
+                        "ref": "TGCO Garden Cloud Area/Maxim Tomato (Starfall)/Maxim Tomato",
+                        "name": "Maxim Tomato (Starfall)"
                     },
                     {
-                        "ref": "TGCO Garden Cloud Area/Starblock Room Maxim Tomato/Maxim Tomato",
-                        "name": "Starblock Room Maxim Tomato"
+                        "ref": "TGCO Garden Cloud Area/Maxim Tomato (Starblock)/Maxim Tomato",
+                        "name": "Maxim Tomato (Starblock)"
                     }
                 ],
                 "map_locations": [
@@ -8954,12 +8960,12 @@
                 "name": "Starfall Room",
                 "sections": [
                     {
-                        "ref": "TGCO Garden Cloud Area/Starfall Room 1-Up/1-Up",
-                        "name": "Starfall Room 1-Up"
+                        "ref": "TGCO Garden Cloud Area/1-Up (Starfall)/1-Up",
+                        "name": "1-Up (Starfall)"
                     },
                     {
-                        "ref": "TGCO Garden Cloud Area/Starfall Room Maxim Tomato/Maxim Tomato",
-                        "name": "Starfall Room Maxim Tomato"
+                        "ref": "TGCO Garden Cloud Area/Maxim Tomato (Starfall)/Maxim Tomato",
+                        "name": "Maxim Tomato (Starfall)"
                     },
                     {
                         "ref": "TGCO Garden Cloud Area/Treasure 54/Spirit Charm",
@@ -9078,16 +9084,16 @@
                 "name": "Hidden Room",
                 "sections": [
                     {
-                        "ref": "TGCO Garden Cloud Area/Hidden Room Left 1-Up/1-Up",
-                        "name": "Hidden Room Left 1-Up"
+                        "ref": "TGCO Garden Cloud Area/1-Up (Hidden Left)/1-Up",
+                        "name": "1-Up (Hidden Left)"
                     },
                     {
-                        "ref": "TGCO Garden Cloud Area/Hidden Room Right 1-Up/1-Up",
-                        "name": "Hidden Room Right 1-Up"
+                        "ref": "TGCO Garden Cloud Area/1-Up (Hidden Right)/1-Up",
+                        "name": "1-Up (Hidden Right)"
                     },
                     {
-                        "ref": "TGCO Garden Cloud Area/Hidden Room Maxim Tomato/Maxim Tomato",
-                        "name": "Hidden Room Maxim Tomato"
+                        "ref": "TGCO Garden Cloud Area/Maxim Tomato (Hidden)/Maxim Tomato",
+                        "name": "Maxim Tomato (Hidden)"
                     }
                 ],
                 "map_locations": [
@@ -9099,7 +9105,7 @@
                 ]
             },
             {
-                "name": "Hidden Room Left 1-Up",
+                "name": "1-Up (Hidden Left)",
                 "access_rules": [
                     "Bomb",
                     "Beam",
@@ -9131,7 +9137,7 @@
                 ]
             },
             {
-                "name": "Hidden Room Right 1-Up",
+                "name": "1-Up (Hidden Right)",
                 "access_rules": [
                     "Bomb",
                     "Beam",
@@ -9163,7 +9169,7 @@
                 ]
             },
             {
-                "name": "Hidden Room Maxim Tomato",
+                "name": "Maxim Tomato (Hidden)",
                 "access_rules": [
                     "Bomb",
                     "Beam",
@@ -9195,7 +9201,7 @@
                 ]
             },
             {
-                "name": "Starfall Room 1-Up",
+                "name": "1-Up (Starfall)",
                 "sections": [
                     {
                         "name": "1-Up",
@@ -9215,7 +9221,7 @@
                 ]
             },
             {
-                "name": "Starblock Room Maxim Tomato",
+                "name": "Maxim Tomato (Starblock)",
                 "sections": [
                     {
                         "name": "Maxim Tomato",
@@ -9240,7 +9246,7 @@
                 ]
             },
             {
-                "name": "Starfall Room Maxim Tomato",
+                "name": "Maxim Tomato (Starfall)",
                 "sections": [
                     {
                         "name": "Maxim Tomato",
@@ -9334,7 +9340,7 @@
                 ]
             },
             {
-                "name": "Cannon Room Maxim Tomato",
+                "name": "Maxim Tomato (Cannon)",
                 "sections": [
                     {
                         "name": "Maxim Tomato",
@@ -9354,7 +9360,7 @@
                 ]
             },
             {
-                "name": "Bugzzy Maxim Tomato",
+                "name": "Maxim Tomato (Bugzzy)",
                 "sections": [
                     {
                         "name": "Maxim Tomato",
@@ -9374,7 +9380,7 @@
                 ]
             },
             {
-                "name": "Underwater Maxim Tomato",
+                "name": "Maxim Tomato (Underwater)",
                 "sections": [
                     {
                         "name": "Maxim Tomato",
@@ -9394,7 +9400,7 @@
                 ]
             },
             {
-                "name": "Gordo 1-Up",
+                "name": "1-Up (Gordo)",
                 "sections": [
                     {
                         "name": "1-Up",
@@ -9414,7 +9420,7 @@
                 ]
             },
             {
-                "name": "Underwater 1-Up",
+                "name": "1-Up (Underwater)",
                 "sections": [
                     {
                         "name": "1-Up",
@@ -9480,7 +9486,7 @@
                 ]
             },
             {
-                "name": "First Room 1-Up",
+                "name": "1-Up (Middle)",
                 "access_rules": [
                     "Ninja",
                     "Cutter",
@@ -9506,7 +9512,7 @@
                 ]
             },
             {
-                "name": "First Room Maxim Tomato",
+                "name": "Maxim Tomato (Middle)",
                 "access_rules": [
                     "Ninja",
                     "Cutter",
@@ -9532,7 +9538,7 @@
                 ]
             },
             {
-                "name": "Essence Maxim Tomato",
+                "name": "Maxim Tomato (Essence)",
                 "sections": [
                     {
                         "name": "Maxim Tomato",

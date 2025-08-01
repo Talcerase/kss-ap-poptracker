@@ -2,7 +2,7 @@
 	"name": "Kirby Super Star AP Tracker",
 	"game_name": "Kirby Super Star",
 	"package_uid": "KSS_AP_TRACKER",
-	"package_version": "0.0.3",
+	"package_version": "0.0.4",
 	"platform": "snes",
 	"author": "Talcerase",
 	"min_poptracker_version": "0.28.0",

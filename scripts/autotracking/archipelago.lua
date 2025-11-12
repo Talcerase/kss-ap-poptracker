@@ -87,12 +87,12 @@ function onClear(slot_data)
                 maxim_tomato.CurrentStage = (1)
             end
             if setting == "1-Up" then
-                local maxim_tomato = Tracker:FindObjectForCode('1-Up')
-                1-Up.CurrentStage = (1)
+                local oneup = Tracker:FindObjectForCode('1-Up')
+                oneup.CurrentStage = (1)
             end
             if setting == "Invincibility Candy" then
-                local maxim_tomato = Tracker:FindObjectForCode('Invincibility_Candy')
-                Invincibility_Candy.CurrentStage = (1)
+                local candy = Tracker:FindObjectForCode('Invincibility_Candy')
+                candy.CurrentStage = (1)
             end
         end
     end

@@ -7737,8 +7737,8 @@
     {
         "name": "TGCO Old Tower Area 2",
         "access_rules": [
-            "The Great Cave Offensive, Stone",
-            "The Great Cave Offensive, Hammer"
+            "The Great Cave Offensive, Stone, Gold:2",
+            "The Great Cave Offensive, Hammer, Gold:2"
         ],
         "chest_unopened_img": "/images/KSS_Closed_Chest.png",
         "chest_opened_img": "/images/KSS_Open_Chest.png",

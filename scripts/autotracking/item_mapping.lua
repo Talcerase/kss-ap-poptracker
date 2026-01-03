@@ -103,6 +103,7 @@ ITEM_MAPPING = {
     [4654087] = {"???", "toggle"},
     [4655104] = {"dynablade-extra1", "toggle"},
     [4655105] = {"dynablade-extra2", "toggle"},
+    [4655106] = {"progressive_dyna_blade", "consumable"},
     [4657153] = {"1-up", "consumable"},
     [4657154] = {"maximtomato", "consumable"},
     [4657155] = {"invinciblecandy", "consumable"},

@@ -200,11 +200,11 @@
 		"name": "Gold",
 		"type": "consumable",
 		"img": "/images/KSS_Gold_Medal_Treasure_Sprite.png",
-		"max_quantity": 3,
+		"max_quantity": 4,
 		"increment": 1,
 		"decrement": 1,
 		"initial_quantity": 0,
-		"overlay_font_size": 12,
+		"overlay_font_size": 16,
 		"codes": "Gold"
 	},
 	{
@@ -259,36 +259,47 @@
         "name": "Maxim Tomato",
         "type": "toggle",
         "img": "/images/Maxim.png",
-        "codes": "Maxim Tomato, Maxim_Tomato"
+        "codes": "Maxim Tomato,Maxim_Tomato,maxim_tomato"
     },
     {
         "name": "1-Up",
         "type": "toggle",
         "img": "/images/1-Up.png",
-        "codes": "1-Up"
+        "codes": "one_up, One-Up"
     },
     {
         "name": "Invincibility Candy",
         "type": "toggle",
         "img": "/images/InvincibleCandy.png",
-        "codes": "Invincibility Candy, Invincibility_Candy"
+        "codes": "Invincibility Candy,Invincibility_Candy,invincible_candy"
     },
     {
         "name": "Essences",
         "type": "toggle",
         "img": "/images/Trophy.png",
-        "codes": "Essences"
+        "codes": "Essences,essences"
     },
     {
         "name": "DB Extra 1",
         "type": "toggle",
         "img": "/images/dynastagechecked.png",
-        "codes": "Dyna Blade - Extra 1, DB Ex 1"
+        "codes": "Dyna Blade - Extra 1,DB Ex 1,dyna_blade_ex1,db_ex1"
     },
     {
         "name": "DB Extra 2",
         "type": "toggle",
         "img": "/images/dynastagechecked.png",
-        "codes": "Dyna Blade - Extra 2, DB Ex 2"
-    }
+        "codes": "Dyna Blade - Extra 2,DB Ex 2,dyna_blade_ex2,db_ex2"
+    },
+    {
+		"name": "DynaBlade Stages",
+		"type": "consumable",
+		"img": "/images/dynastageunchecked.png",
+		"max_quantity": 4,
+		"increment": 1,
+		"decrement": 1,
+		"initial_quantity": 0,
+		"overlay_font_size": 16,
+		"codes": "Dyna Blade - Progressive Stage,progressive_dyna_blade"
+	}
 ]

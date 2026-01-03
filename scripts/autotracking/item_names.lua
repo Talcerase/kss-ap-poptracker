@@ -104,4 +104,5 @@ ITEM_NAMES = {
 	[maximtomato] = "Maxim Tomato",
 	[invinciblecandy] = "Invincible Candy",
 	[rainbowstar] = "Rainbow Star",
+	[progressive_dyna_blade] = "Dyna Blade - Progressive Stage"
 }

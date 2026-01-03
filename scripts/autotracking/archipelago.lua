@@ -80,26 +80,27 @@ function onClear(slot_data)
     PLAYER_ID = Archipelago.PlayerNumber or -1
     TEAM_NUMBER = Archipelago.TeamNumber or 0
 
-    if slot_data['Consumables'] then
-        for k,setting in pairs(slot_data['Consumables']) do
-            if setting == "Maxim Tomoato" then
-                local maxim_tomato = Tracker:FindObjectForCode('Maxim_Tomato')
-                maxim_tomato.CurrentStage = (1)
-            end
-            if setting == "1-Up" then
-                local oneup = Tracker:FindObjectForCode('1-Up')
-                oneup.CurrentStage = (1)
-            end
-            if setting == "Invincibility Candy" then
-                local candy = Tracker:FindObjectForCode('Invincibility_Candy')
-                candy.CurrentStage = (1)
-            end
-        end
-    end
-    if slot_data['Essences'] then
-        local essences = Tracker:FindObjectForCode('Essences')
-        essences.CurrentStage = (slot_data['Essences'])
-    end
+--per Silvris, consumables is not stored in slot_data
+--    if slot_data['Consumables'] then
+--        for k,setting in pairs(slot_data["Consumables"]) do
+--            if setting == "Maxim Tomoato" then
+--                local maxim_tomato = Tracker:FindObjectForCode("Maxim_Tomato"):SetOverlay("Maxim Tomato")
+--                maxim_tomato.CurrentStage = (1)
+--            end
+--            if setting == "1-Up" then
+--                local oneup = Tracker:FindObjectForCode("1-Up"):SetOverlay("1-Up")
+--                one_up.CurrentStage = (1)
+--            end
+--            if setting == "Invincibility Candy" then
+--                local candy = Tracker:FindObjectForCode("Invincibility_Candy"):SetOverlay("Invincibility Candy")
+--                invincible_candy.CurrentStage = (1)
+--            end
+--        end
+--    end
+--    if slot_data['Essences'] then
+--        local essences = Tracker:FindObjectForCode("Essences"):SetOverlay("Essences")
+--        essences.CurrentStage = (1)
+--    end
 end
 
 function onItem(index, item_id, item_name, player_number)

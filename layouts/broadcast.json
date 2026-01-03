@@ -25,7 +25,7 @@
 				"item_margin": "2,2",
 				"rows": [
 					["Spring Breeze", "Gourmet Race", "The Great Cave Offensive", "Revenge of Meta Knight", "The Arena"],
-                    ["", "Dyna Blade", "Dyna Blade - Extra 1", "Dyna Blade - Extra 2"],
+                    ["Dyna Blade", "Dyna Blade - Progressive Stage", "Dyna Blade - Extra 1", "Dyna Blade - Extra 2"],
 					["Milky Way Wishes", "Floria", "Aqualiss", "Skyhigh", "Hotbeat"],
                     ["", "Cavios", "Mecheye", "Halfmoon", "???"]
 					]
@@ -36,7 +36,7 @@
 				"margin": "0,0",
 				"item_margin": "1,1",
 				"rows": [
-				["", "Essences", "1-Up", "Maxim Tomato", "Invincibility Candy"],
+				["", "Essences", "One-Up", "Maxim Tomato", "Invincibility Candy"],
                 ["", "Rainbow Stars", "", "", "Gold"]
 				]
 			}

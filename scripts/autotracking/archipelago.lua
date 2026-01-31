@@ -1,10 +1,8 @@
 ScriptHost:LoadScript("scripts/autotracking/item_mapping.lua")
 ScriptHost:LoadScript("scripts/autotracking/location_mapping.lua")
 
-SLOT_DATA = nil
 CUR_INDEX = -1
-LOCAL_ITEMS = {}
-GLOBAL_ITEMS = {}
+SLOT_DATA = nil
 
 function has_value (t, val)
     for i, v in ipairs(t) do
@@ -33,44 +31,10 @@ function dump_table(o, depth)
     end
 end
 
-function incrementItem(item_code, item_type, multiplier)
-	local obj = Tracker:FindObjectForCode(item_code)
-	if obj then
-		item_type = item_type or obj.Type
-		if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
-			print(string.format("incrementItem: code: %s, type %s", item_code, item_type))
-		end
-		if item_type == "toggle" or item_type == "toggle_badged" then
-			obj.Active = true
-		elseif item_type == "progressive" or item_type == "progressive_toggle" then
-			if obj.Active then
-				obj.CurrentStage = obj.CurrentStage + 1
-			else
-				obj.Active = true
-			end
-		elseif item_type == "consumable" then
-			obj.AcquiredCount = obj.AcquiredCount + obj.Increment * multiplier
-		elseif item_type == "custom" then
-			-- your code for your custom lua items goes here
-		elseif item_type == "static" and AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
-			print(string.format("incrementItem: tried to increment static item %s", item_code))
-		elseif item_type == "composite_toggle" and AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
-			print(string.format(
-				"incrementItem: tried to increment composite_toggle item %s but composite_toggle cannot be access via lua." ..
-				"Please use the respective left/right toggle item codes instead.", item_code))
-		elseif AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
-			print(string.format("incrementItem: unknown item type %s for code %s", item_type, item_code))
-		end
-	elseif AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
-		print(string.format("incrementItem: could not find object for code %s", item_code))
-	end
-end
-
 function onClear(slot_data)
     print(dump_table(slot_data))
     SLOT_DATA = slot_data
     CUR_INDEX = -1
-	
     --reset locations
     for _, v in pairs(LOCATION_MAPPING) do
         if v[1] then
@@ -113,43 +77,27 @@ function onClear(slot_data)
         return
     end
 
-    dump_table(slot_data)
     PLAYER_ID = Archipelago.PlayerNumber or -1
     TEAM_NUMBER = Archipelago.TeamNumber or 0
 
-    if slot_data["treasure_values"] then
-        for _, v in pairs(slot_data["treasure_values"]) do
-            if v[1] and v[2] and v[3] and v[4] then
-                CRYSTAL_GATE = v[1]
-                OLD_TOWER_GATE = v[2]
-                GARDEN_GATE = v[3]
-                ESCAPE_GATE = v[4]
-            else
-                CRYSTAL_GATE = 2499997
-                OLD_TOWER_GATE = 4999995
-                GARDEN_GATE = 7499992
-                ESCAPE_GATE = 9999990
-            end
-        end
-    end
-    if slot_data["consumables"] then
-        for k,setting in pairs(slot_data["consumables"]) do
-            if setting == "Maxim Tomato" then
-                local maxim = Tracker:FindObjectForCode("maxim_tomato")
-                maxim.CurrentStage = (1)
+    if slot_data['Consumables'] then
+        for k,setting in pairs(slot_data["Consumables"]) do
+            if setting == "Maxim Tomoato" then
+                local maxim_tomato = Tracker:FindObjectForCode("Maxim_Tomato"):SetOverlay("Maxim Tomato")
+                maxim_tomato.CurrentStage = (1)
             end
             if setting == "1-Up" then
-                local oneup = Tracker:FindObjectForCode("one_up")
-                oneup.CurrentStage = (1)
+                local oneup = Tracker:FindObjectForCode("1-Up"):SetOverlay("1-Up")
+                one_up.CurrentStage = (1)
             end
             if setting == "Invincibility Candy" then
-                local candy = Tracker:FindObjectForCode("invincible_candy")
-                candy.CurrentStage = (1)
+                local candy = Tracker:FindObjectForCode("Invincibility_Candy"):SetOverlay("Invincibility Candy")
+                invincible_candy.CurrentStage = (1)
             end
         end
     end
-    if slot_data["essences"] then
-        local essences = Tracker:FindObjectForCode("essences")
+    if slot_data['Essences'] then
+        local essences = Tracker:FindObjectForCode("Essences"):SetOverlay("Essences")
         essences.CurrentStage = (1)
     end
 end

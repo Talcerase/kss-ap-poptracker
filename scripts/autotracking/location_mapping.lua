@@ -2,9 +2,9 @@ local BASE_ID = 0x470000
 
 LOCATION_MAPPING = {
     --spring breeze
-    [ BASE_ID+0x100 ] = {"@Spring Breeze - Green Greens/GG Maxim Tomato/Maxim"},
-    [ BASE_ID+0x200 ] = {"@Spring Breeze - Green Greens/GG 1-Up/1-Up"},
-    [ BASE_ID+0 ] = {"@Spring Breeze - Green Greens/GG Boss/Whispy Woods"},
+    [ BASE_ID + 0x100 ] = {"@Spring Breeze - Green Greens/GG Maxim Tomato/Maxim"},
+    [ BASE_ID + 0x200 ] = {"@Spring Breeze - Green Greens/GG 1-Up/1-Up"},
+    [ BASE_ID + 0 ] = {"@Spring Breeze - Green Greens/GG Boss/Whispy Woods"},
     [ BASE_ID + 0x201 ] = {"@Spring Breeze - Float Islands/FI: 1-Up/1-Up"},
     [ BASE_ID + 0x400 ] = {"@Spring Breeze - Float Islands/FI: Invincibility Candy/Invincibility Candy"},
     [ BASE_ID + 1 ] = {"@Spring Breeze - Float Islands/FI: Boss/Lololo+Lalala"},
